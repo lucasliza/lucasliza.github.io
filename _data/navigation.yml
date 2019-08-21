@@ -2,8 +2,10 @@
 main:
   - title: "Quick-Start Guide"
     url: https://lucasliza.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: https://lucasliza.github.io/about/
+  - title: "Pesquisar"
+    url: https://lucasliza.github.io/pesquisar/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
