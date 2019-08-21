@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Início"
     url: https://lucasliza.github.io
-  - title: "About"
-    url: https://lucasliza.github.io/about/
+  - title: "Sobre"
+    url: /sobre/
   - title: "Pesquisar"
-    url: https://lucasliza.github.io/pesquisar/
+    url: /pesquisar/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
