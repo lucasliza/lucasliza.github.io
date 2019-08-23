@@ -162,6 +162,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /.well-known
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -188,8 +189,6 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - .nojekyll
-  . /.well-known
 keep_files:
   - .git
   - .svn
