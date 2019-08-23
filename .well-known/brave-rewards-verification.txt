@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lucasliza.github.io
+Token: 1852c2c020f7b25c5f313536045ae772fb89929fa5eaa83f85d9809dc3b4b46f
