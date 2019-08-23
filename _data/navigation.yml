@@ -2,10 +2,14 @@
 main:
   - title: "Início"
     url: https://lucasliza.github.io
+  - title: "Podcast"
+    url: /podcast/
+  - title: "Materiais"
+    url: /extras/
+  - title: "Arquivo"
+    url: /arquivo/
   - title: "Sobre"
     url: /sobre/
-  - title: "Pesquisar"
-    url: /pesquisar/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

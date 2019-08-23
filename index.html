@@ -1,7 +1,39 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: splash
+title: Irlandês Primata, Irlanda Selvagem
+description: A racialização irlandesa em periódicos
 author_profile: true
+header:
+  overlay_color: "#228B22"
+  overlay_image: "/assets/images/cover.jpg"
+  actions:
+    - label: "<i class='fas fa-download'></i> Baixar .pdf"
+      url: "/arquivo_do_projeto.pdf"
+  caption: ""
+excerpt: 'A racialização irlandesa em periódicos estadunidenses e britânicos (1860 - 1880)'
+
+feature_row:
+  - image_path: assets/images/test.jpg
+    alt: "O projeto"
+    title: "O Projeto"
+    excerpt: "Conheça os detalhes da pesquisa: fontes utilizadas, bibliografia."
+    url: "/projeto/"
+    btn_label: "Ver"
+    btn_class: "btn--primary"
+  - image_path: assets/images/test2.jpg
+    alt: "Recursos Extras"
+    title: "Recursos Extras"
+    excerpt: "Acesse os materiais e recursos extras derivados da pesquisa."
+    url: "/extras/"
+    btn_label: "Ver"
+    btn_class: "btn--primary"
+  - image_path: assets/images/tes3.jpg
+    alt: "Recursos Extras e Mídias"
+    title: "Podcast"
+    excerpt: "Experimente e se aventure pela pesquisa desenvolvida através de um novo formato."
+    url: "/podcast/"
+    btn_label: "Ver"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
