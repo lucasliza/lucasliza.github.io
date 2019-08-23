@@ -4,8 +4,12 @@ main:
     url: https://lucasliza.github.io
   - title: "Podcast"
     url: /podcast/
-  - title: "Materiais"
+  - title: "Fontes"
+    url: "/fontes"
+  - title: "Extras"
     url: /extras/
+  - title: "Bibliografia"
+    url: /bibliografia/
   - title: "Arquivo"
     url: /arquivo/
   - title: "Sobre"
