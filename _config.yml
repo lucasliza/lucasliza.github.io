@@ -188,6 +188,8 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - .nojekyll
+  . /.well-known
 keep_files:
   - .git
   - .svn
