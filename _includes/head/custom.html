@@ -1,0 +1,23 @@
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+<meta name="DC.Title" content="{{ page.title }}">
+<meta name="DC.Creator" content="{{ author.name }}">
+{% if page.source %}
+  <meta name="DC.Source" content="{{ page.source }}">
+{% endif %}
+<meta name="DC.Description" content="{{ page.excerpt | strip_html }} - Fra: {{ site.title }}">
+{% if page.publisher %}
+  <meta name="DC.Publisher" content="{{ page.publisher }}">
+{% else %}
+  <meta name="DC.Publisher" content="{{ site.name }}">
+{% endif %}
+{% if page.type %}
+  <meta name="DC.Type" content="{{ page.type }}">
+{% endif %}
+<meta name="DC.Format" content="text/html">
+<meta name="DC.Language" content="pt-BR">
+<meta name="DC.Rights" content="All rights reserved">

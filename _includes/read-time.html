@@ -7,13 +7,13 @@
 {% endif %}
 
 {% if post.listen_time and post.podcast_duration %}
-  {{ post.podcast_duration }} minutos de áudio
+  {{ post.podcast_duration | round }} minutos de áudio
 {% elsif page.listen_time and page.podcast_duration and post %}
   {% if post.podcast_duration %}
-    {{ post.podcast_duration }} minutos de áudio
+  {{ post.podcast_duration | round }} minutos de áudio
   {% endif %}
-{% else %}
-  {{ page.podcast_duration }} minutos de áudio
+{% elsif page.podcast_duration %}
+  {{ page.podcast_duration | round }} minutos de áudio
 {% endif %}
 
 {% if post.video_time && post.video_duration %}

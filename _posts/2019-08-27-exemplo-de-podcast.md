@@ -9,7 +9,7 @@ tags:
   - Jornais
 header:
   overlay_color: "#591518"
-  overlay_image: /assets/images/podcasts/header.jpg
+  overlay_image: /assets/images/podcasts/header_separator.jpg
   teaser: /assets/images/podcasts/episode1_cover.jpg
   caption: "Fundo: Harper's Weekly, 1862"
 sidebar:
@@ -34,8 +34,6 @@ chapters:
  - '00:04:32.0 Entrevista com o Professor Márcio Seligmann'
 transcript:
 ---
-
-{% include podcast-player.html %}
 
  <p> {{ page.excerpt }}  </p>
 

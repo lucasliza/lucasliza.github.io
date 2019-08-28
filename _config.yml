@@ -30,10 +30,10 @@ repository               : "lucasliza/lucasliza.github.io" # GitHub username/rep
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : facebook # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -311,7 +311,6 @@ podcast_email: lucaslizza@gmail.com
 podcast_category: Ciência e Educação
 podcast_subcategory:
  - História
- - Irlanda
 podcast_explicit: "no"
 podcast_author: Lucas Liza
 podcast_description: Podcast sobre a
