@@ -1,5 +1,19 @@
 <script>
     window.playerConfiguration = {
+        "options": {
+          "theme": "default"
+        },
+        "extensions": {
+          "ChapterMarks": {},
+          "EpisodeInfo": {disabled: true},
+          "Playlist": {disabled: true},
+          "Transcript": {},
+          "Deeplink": {disabled: true}
+        },
+        "podcast": {
+          "title": "Podcast da Pesquisa",
+          "feed": "https://lucasliza.github.io/feed/podcast/"
+        },
         "episode": {
             "media": {
     {% for audio in page.media %}

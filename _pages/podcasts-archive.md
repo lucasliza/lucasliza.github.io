@@ -1,15 +1,15 @@
 ---
 layout: category
 title: Nome do Podcast
-excerpt: "Podcast da pesquisa"
+excerpt: "Pellentesque tempus, ex mattis facilisis venenatis, velit purus pulvinar justo, at condimentum sem ipsum a velit. Aliquam vulputate varius ex sed scelerisque."
 permalink: /podcast/
 taxonomy: Podcast
-entries_layout: # list (default), grid
+entries_layout: grid # list (default), grid
 sort_by: date # date (default) title
 sort_order: forward # forward (default), reverse
 author: Lucas Liza
 header:
-  overlay_image: /assets/images/cartoon.jpg
+  overlay_image: /assets/images/podcasts/header_episode1.jpg
   teaser: /assets/images/cartoon.jpg
   caption: ""
   actions:
@@ -20,5 +20,5 @@ sidebar:
   - title: Nome do Podcast
     image: /assets/images/podcasts/podcast_cover.jpg
     image_alt: "Nome do Podcast Art"
-    text: "Descrição do Podcast"
+    text: "Pellentesque tempus, ex mattis facilisis venenatis, velit purus pulvinar justo, at condimentum sem ipsum a velit. Aliquam vulputate varius ex sed scelerisque."
 ---

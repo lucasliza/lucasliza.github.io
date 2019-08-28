@@ -6,20 +6,24 @@
   {% assign words = page.content | strip_html | number_of_words %}
 {% endif %}
 
-{% if post.listen_time && post.podcast_duration %}
-  {{ post.podcast_duration }} minutters lytning og
-{% elsif page.listen_time && page.podcast_duration %}
-  {{ page.podcast_duration }} minutters lytning og
+{% if post.listen_time and post.podcast_duration %}
+  {{ post.podcast_duration }} minutos de áudio
+{% elsif page.listen_time and page.podcast_duration and post %}
+  {% if post.podcast_duration %}
+    {{ post.podcast_duration }} minutos de áudio
+  {% endif %}
+{% else %}
+  {{ page.podcast_duration }} minutos de áudio
 {% endif %}
 
 {% if post.video_time && post.video_duration %}
-  {{ post.video_duration }} minutters video og
+  {{ post.video_duration }} minutos de vídeo
 {% elsif page.video_time && page.video_duration %}
-  {{ page.video_duration }} minutters video og
+  {{ page.video_duration }} minutos de vídeo
 {% endif %}
 
 {% if words < words_per_minute %}
-  {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+  e {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
 {% elsif words == words_per_minute %}
   1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
 {% else %}
