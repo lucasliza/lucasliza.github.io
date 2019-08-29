@@ -34,7 +34,7 @@ chapters:
  - '00:04:32.0 Entrevista com o Professor Márcio Seligmann'
 transcript:
 ---
-
+{% include podcast-player.html %}
  <p> {{ page.excerpt }}  </p>
 
 {{ page.description }}
