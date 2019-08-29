@@ -16,7 +16,7 @@ sidebar:
   - title: Podcast da Pesquisa
     image: /assets/images/podcasts/podcast_cover.jpg
     image_alt: "Arte do Podcast da Pesquisa"
-    text: "Pellentesque tempus, ex mattis facilisis venenatis, velit purus pulvinar justo, at condimentum sem ipsum a velit. [Aliquam vulputate varius ex sed scelerisque.](/podcast/)"
+    text: "Pellentesque tempus, ex mattis facilisis venenatis, velit purus pulvinar justo. [Aliquam vulputate varius ex sed scelerisque.](/podcast/)"
 classes: wide
 # Podcast
 listen_time: true
