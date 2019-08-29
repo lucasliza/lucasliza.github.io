@@ -7,17 +7,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page-captions {
-  background-color: rgba(0, 0, 0, 0.8);
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
-  padding-left: 0.1em;
-  padding-right: 0.1em;
-  border-radius: 5px;
-}
-
 span.archive__item-categories {
-  background-color: ivory;
+  background-color: snow;
   font-size: 10px;
   border-color: rgba(0, 0, 0, 0.2);
   border-radius: 3px;

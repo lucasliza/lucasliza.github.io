@@ -9,8 +9,9 @@ sort_by: date # date (default) title
 sort_order: forward # forward (default), reverse
 author: Lucas Liza
 header:
-  overlay_image: /assets/images/cartoon.jpg
-  teaser: /assets/images/cartoon.jpg
+  overlay_image: /assets/images/podcasts/harpers.jpg
+  overlay_filter: 0.7
+  teaser: /assets/images/podcasts/harpers.jpg
   caption: ""
 classes: wide
 ---
