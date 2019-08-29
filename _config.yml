@@ -298,6 +298,7 @@ defaults:
       video_time: false
       comments: true
       share: true
+      donate: true
       related: true
 
 # Podcast
