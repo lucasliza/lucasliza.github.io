@@ -26,8 +26,8 @@ description: "Proin dictum pellentesque nunc, id posuere ex cursus a. In vestibu
 image: /assets/images/podcasts/episode1_cover.jpg
 media: # requires a mp3-entry
   mp3: //drive.google.com/uc?id=1ZFaw9lgUEx9sfZ3v9DuVSmDHciXtPzvy
-podcast_file_size: 25.0 MB # for mp3-file
-podcast_duration: "13:40" # for mp3-file
+podcast_file_size: 85.0 MB # for mp3-file
+podcast_duration: "34:40" # for mp3-file
 podcast_length: 26259456 # for mp3-file
 chapters:
  - '00:00:00.0 Intro'
