@@ -267,10 +267,10 @@ pt-PT:
   <<: *DEFAULT_PT
 # Brazilian Portuguese
 pt-BR:
-  skip_links                 :
-  skip_primary_nav           :
-  skip_content               :
-  skip_footer                :
+  skip_links                 : "Pular links"
+  skip_primary_nav           : "Pular para o menu"
+  skip_content               : "Pular para o conteúdo"
+  skip_footer                : "Pular para o rodapé"
   page                       : "Página"
   pagination_previous        : "Anterior"
   pagination_next            : "Próxima"
