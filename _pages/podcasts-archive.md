@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Nome do Podcast
-excerpt: "Pellentesque tempus, ex mattis facilisis venenatis, velit purus pulvinar justo, at condimentum sem ipsum a velit."
+excerpt: "Pellentesque tempus, ex mattis facilisis venenatis, velit purus pulvinar"
 permalink: /podcast/
 taxonomy: Podcast
 entries_layout: grid # list (default), grid
@@ -20,5 +20,5 @@ sidebar:
   - title: Nome do Podcast
     image: /assets/images/podcasts/podcast_cover.jpg
     image_alt: "Nome do Podcast Art"
-    text: "Pellentesque tempus, ex mattis facilisis venenatis, velit purus pulvinar justo, at condimentum sem ipsum a velit."
+    text: "Pellentesque tempus, ex mattis facilisis venenatis, velit purus pulvinar"
 ---
