@@ -46,7 +46,7 @@ Durante a década de 1850, um período de prosperidade para o Império Britânic
 Nessa época _Punch_ já atingia um público considerável e detinha notável influência. No período, a média mensal de vendas da revista era de 160 mil exemplares[<sup>6</sup>](#ref6). Esse número, entretanto, não é suficiente para determinar toda sua influência. Casas de café, <span class="tool" data-tip="Originado no século XVIII, era um tipo de clube social privado criado por e para homens britânicos de classe-alta. Normalmente continha uma sala de jantar formal, um bar, uma biblioteca, uma sala de bilhar e um ou mais salões para leitura, jogos ou socialização.">clubes de cavalheiros</span> e outros espaços de socialização também mantinham coleções de periódicos da época, assim, um único volume poderia alcançar diversos leitores. Além disso, pedaços da revista eram usados como preenchimento em outros periódicos como é o caso dos jornais _Times_ e _News of The World_[<sup>7</sup>](#ref7). Portanto, ao classificarmos a influência de _Punch_ estamos mobilizando outros fatores além das vendas oficiais.
 
 {: .text-justify}
-Mas sua influência não se limitava à opinião pública. O modelo de _Punch_ foi amplamente disseminado pelo mundo, especialmente nas colônias britânicas - onde era bem popular. Mesmo que breves, diversas imitações da revista surgiram a partir da década de 1850, como se observar na figura abaixo.
+Mas sua influência não se limitava à opinião pública. O modelo de _Punch_ foi amplamente disseminado pelo mundo, especialmente nas colônias britânicas - onde era bem popular. Mesmo que breves, diversas imitações da revista surgiram a partir da década de 1850, sendo apenas algumas listadas abaixo:
 
 - **Canadá**: _Punch in Canada_ (1849-1850)
 - **África do Sul**: _Cape Punch_ (1888).
@@ -69,9 +69,16 @@ Custando 2 centavos de libra, mais baratas comparadas aos 3 centavos de Punch, a
 Os _big cuts_ eram cartuns de página dupla e, geralmente, impressos sem conteúdo nos versos para que pudessem ser recortados e usados como decoração de parede. Os temas desses cartuns eram decididos na _"Punch table"_, uma espécie de reunião editorial, e designados para um artista diferente a cada semana. A maioria dos _big cuts_ tinham tons políticos, abordando quase sempre questões da política externa britânica.
 
 {: .text-justify}
-Por exemplo, na década de 1860, a guerra civil americana predominou nessa seção da revista. Segundo o historiador da revista Price, apesar das opiniões políticas divergirem internamente, _Punch_ demonstra certo apoio ao Sul - se alinhando às classes mais altas britânicas[<sup>11</sup>](#ref11). Oscar Maurer também evidencia a mudança de postura da revista para uma posição conservadora. Aponta que durante o conflito, Punch profetizava a derrota do Norte em seus textos, em tom de desejo:
+Por exemplo, na década de 1860, a guerra civil americana predominou nessa seção da revista. Segundo o historiador da revista Price, apesar das opiniões políticas divergirem internamente, _Punch_ demonstra certo apoio ao Sul - se alinhando às classes mais altas britânicas[<sup>11</sup>](#ref11). Oscar Maurer também evidencia a mudança de postura da revista para uma posição conservadora e alinhada às classes mais altas. Aponta que durante o conflito, _Punch_ profetizava a derrota do Norte em seus textos, exemplificado no prefácio de seu volume 46 com o texto "A Chapter from the History of Future":
 
-> [<sup>12</sup>](#ref12)
+{: .text-justify}
+> The Confederates having put down the Federal Rebellion, the American people
+had time to look around them, and consider how they could best reform institutions
+which had worked somewhat imperfectly. The executions of Butler and of James
+Gordon Bennett had tended to conciliate all parties, and the work of restoring good
+humour was completed by the publication, on the part of the ex-President, Mr.
+Lincoln, of a delightful volume, containing all the facetious anecdotes with which he
+had successfully met the various Federal disasters [<sup>12</sup>](#ref12)
 
 {: .text-justify}
 John Ruskin, crítico de arte da época, fornece um útil resumo para a inclinação política de _Punch_:
@@ -102,7 +109,7 @@ Por fim, como revista satírica, _Punch_ enfatizava a diferença. Assim, nesta p
 
 <a name="ref7">7.</a> JOHNSON, Jamie W. The Changing Representation of the Art Public in “Punch”, 1841-1896. Victorian Periodicals Review, [s. l.], v. 35, n. 3, p. 272–294, 2002.
 
-<a name="ref8">8.</a> WILLIAMS, Dominic. Punch and the Pogroms: Eastern Atrocities in John Tenniel’s Political Cartoons, 1876–1896. RACAR : Revue d’art canadienne, [s. l.], v. 42, n. 1, p. 32–47, 2017. 
+<a name="ref8">8.</a> WILLIAMS, Dominic. Punch and the Pogroms: Eastern Atrocities in John Tenniel’s Political Cartoons, 1876–1896. RACAR : Revue d’art canadienne, [s. l.], v. 42, n. 1, p. 32–47, 2017.
 
 <a name="ref9">9.</a> BRAKE, Laurel; DEMOOR, Marysa. Dictionary of Nineteenth-century Journalism in Great Britain and Ireland. S.i: Academia Press, 2009.
 
@@ -110,8 +117,8 @@ Por fim, como revista satírica, _Punch_ enfatizava a diferença. Assim, nesta p
 
 <a name="ref11">11.</a> Price, R.G.G. A History of Punch. Edinburgo: Collins Sons & Co LTD., 1957, p. 83.
 
-<a name="ref12">12.</a> Ruskin, John. The Art of England: Lectures Given at Oxford. 1884. Nova York: J. Willey & Sons, 1884. Disponível em: https://archive.org/details/artofenglandlect1884rusk. Acesso em: 01 jun. 2020.
+<a name="ref12">12.</a> MAURER, Oscar. “‘Punch’ on Slavery and Civil War in America 1841-1865.” Victorian Studies, vol. 1, no. 1, 1957, pp. 5–28.
 
-<a name="ref13">13.</a> MAURER, Oscar. “‘Punch’ on Slavery and Civil War in America 1841-1865.” Victorian Studies, vol. 1, no. 1, 1957, pp. 5–28.
+<a name="ref13">13.</a> RUSKIN, John. The Art of England: Lectures Given at Oxford. 1884. Nova York: J. Willey & Sons, 1884. Disponível em: https://archive.org/details/artofenglandlect1884rusk. Acesso em: 01 jun. 2020.
 
 <a name="ref14">14.</a> JOHNSON, Jamie W., op. cit., p. 274.
