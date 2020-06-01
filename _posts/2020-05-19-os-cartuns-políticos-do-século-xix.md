@@ -3,7 +3,6 @@ title: "Os cartuns políticos do século XIX: origem e transformações"
 author: Lucas Liza
 date: 2020-05-19T15:34:30-04:00
 classes: wide
-excerpt: "teste"
 categories:
   - projeto
 tags:
@@ -18,10 +17,13 @@ Historicamente, a revista britânica _Punch_ é apontada por dar o sentido moder
 
 {: .text-justify}
 Em julho do mesmo ano, na última página da primeira edição, a revista _Punch_ anuncia de forma jocosa sua entrada na competição
-> _PUNCH has the benevolence to announce, that in an early number of his ensuing Volume he will astonish the Parliamentary Committee by the publication of several exquisite designs, to be called PUNCH'S CARTOONS._<sup>[1](#ref1)</sup>
+> <span class="tool" data-tip="
+PUNCH tem a benevolência de anunciar que, em um número inicial de seu volume subsequente, ele surpreenderá o Comitê Parlamentar pela publicação de vários designs requintados, a serem chamados DESENHOS ANIMADOS DE PUNCH."> _PUNCH has the benevolence to announce, that in an early number of his ensuing Volume he will astonish the Parliamentary Committee by the publication of several exquisite designs, to be called PUNCH'S CARTOONS._ </span><sup>[1](#ref1)</sup>
 
 {: .text-justify}
 Duas semanas depois, é publicado na revista “_Cartoon, No. 1 — Substance and Shadow_” de John Leech (figura abaixo).
+
+<a data-tooltip="Técnica de pesca industrial em que se usa uma grande rede para encurralar os cardumes.">barcos de cerco</a>
 
 {% capture fig_img %}
 ![SubstanceAndShadow1843]({{ "/assets/images/posts/SubstanceAndShadow1843.jpg" | relative_url }})

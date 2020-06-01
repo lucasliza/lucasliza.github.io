@@ -31,7 +31,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -87,7 +87,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "luscalzia"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -124,7 +124,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/luscalzia"
+      # url: "https://twitter.com/luscalzia"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -140,7 +140,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/luscalzia"
+      # url: "https://twitter.com/luscalzia"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
