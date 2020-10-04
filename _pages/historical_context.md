@@ -1,9 +1,9 @@
 ---
 layout: category
-title: Projeto
-excerpt: "Projeto"
-permalink: /projeto/
-taxonomy: projeto
+title: Contexto Histórico
+excerpt: "Conheça alguns exemplares da imprensa ilustrada do século XIX, a diáspora irlandesa e os conceitos de análise adotados na pesquisa."
+permalink: /contexto-historico/
+taxonomy: contexto-historico
 entries_layout: # list (default), grid
 sort_by: date # date (default) title
 sort_order: forward # forward (default), reverse

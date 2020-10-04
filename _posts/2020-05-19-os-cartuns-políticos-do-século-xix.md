@@ -4,7 +4,7 @@ author: Lucas Liza
 date: 2020-05-19T15:34:30-04:00
 classes: wide
 categories:
-  - projeto
+  - contexto-historico
 tags:
   - Fontes
   - Cartoon
