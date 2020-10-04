@@ -2,8 +2,8 @@
 main:
   - title: "Início"
     url: https://lucasliza.github.io
-  - title: "Podcast"
-    url: /podcast/
+  # - title: "Podcast"
+  #  url: /podcast/
   - title: "Fontes"
     url: "/fontes"
   - title: "Extras"
