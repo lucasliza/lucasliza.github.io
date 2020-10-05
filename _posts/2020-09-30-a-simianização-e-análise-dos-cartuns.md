@@ -30,7 +30,7 @@ foram perpetradores de simianização">This should not be taken to imply either 
 group or that whites are the only people that have simianized blacks. Numerous racial and
 ethnic groups – including Jewish, Irish, and Japanese people – have been simianized at one
 time or another, and Arab, Japanese, and Chinese people have, at one time or another,
-been perpetrators of simianization.</span>[<sup>2</sup>(#ref2)
+been perpetrators of simianization.</span>[<sup>2</sup>](#ref2)
 
 {: .text-justify}
 É possível apontar, portanto, esse processo de simianização como um caso — ou técnica —
