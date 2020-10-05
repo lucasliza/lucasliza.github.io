@@ -17,8 +17,7 @@ A _An Gorta Mór_[<sup>1</sup>](#ref1) foi a maior calamidade social – em term
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/q1W1DLwg3lk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<caption> Trailer do Filme irlandês BLACK 47 (2018) </caption>
-
+<br>
 
 {: .text-justify}
 O desastre eclodiu quando um fungo, _Phytopthora infestans_, danificou as plantações de batata na ilha, resultando em uma séria escassez de alimentos tanto nas casas dos camponeses
