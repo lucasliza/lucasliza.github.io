@@ -47,8 +47,7 @@ embate não se restringia a comunidade científica, a extrapolava, envolvendo qu
 A teoria poligenista foi impulsionada pela ascensão da popularidade e autoridade das pseudociências da frenologia e da craniologia. A primeira, se propondo a demonstrar a relação entre
 as faculdades mentais e comportamentais de um indivíduo com o tamanho de seu cérebro e protuberâncias encontradas em seu crânio, inicialmente, chamava a atenção de cientistas e outros
 grupos tanto na Europa quanto nos Estados Unidos[<sup>9</sup>](#ref9). Uma de suas áreas, que envolvia o estudo da estrutura da mandíbula e dos ângulos faciais, dialoga com as representações irlandeses que
-começam a emergir na década de 1860. À medida que, no processo de criação de suas obras, caricaturistas e cartunistas da época buscavam criar imagens familiares e reconhecíveis de
-nacionalidades, grupos e personalidades, alguns recorriam a escritos retomados pela frenologia[<sup>10</sup>](#ref10).
+começam a emergir na década de 1860. À medida que, no processo de criação de suas obras, caricaturistas e cartunistas da época buscavam criar imagens familiares e reconhecíveis de nacionalidades, grupos e personalidades, alguns recorriam a escritos retomados pela frenologia[<sup>10</sup>](#ref10).
 
 {: .text-justify}
 No caso do irlandês, uma característica que se destaca nos cartuns analisados é de seu prognatismo, característica relacionada a protuberância do queixo. Junto ao ortognatismo, cujo
@@ -71,10 +70,10 @@ diretamente proporcional, quanto menor o grau menor a capacidade intelectual.
 {% capture fig_img %}
 ![WellsDegreesOfIntelligence1889]({{ "/assets/images/posts/WellsDegreesOfIntelligence1889.png" | relative_url }})
 {% endcapture %}
-
-{{ fig_img | markdownify | remove: "<p>" | remove: "</p>"
-<figcaption>Figura 2 – Esquema visual dos graus de inteligência segundo Wells. Fonte: WELLS, Samuel Roberts. New Physiognomy, 1889, p. 126.</figcaption>
-}}
+<figure>
+{{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+<figcaption> Figura 1 – Esquema visual dos graus de inteligência segundo Wells. Fonte: WELLS, Samuel Roberts. New Physiognomy, 1889, p. 126.</figcaption>
+</figure>
 
 {: .text-justify}
 A ilustração demonstraria, assim, não só a superior capacidade intelectual elevada e civilidade atribuída àqueles com ortognatismo e testas avantajadas (europeus – especialmente os
