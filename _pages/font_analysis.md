@@ -1,9 +1,9 @@
 ---
 layout: category
-title: Contexto Histórico
-excerpt: "Conheça alguns exemplares da imprensa ilustrada do século XIX, as teorias raciais e o sua relação a formação do anglo-saxonismo, a diáspora irlandesa depois da Grande Fome e os conceitos de análise adotados na pesquisa"
-permalink: /contexto-historico/
-taxonomy: contexto-historico
+title: Análise de Fonte
+excerpt: "A partir da investigação de cartuns da imprensa cômica ilustrada oitocentista, conheça através das imagens o processo de transformação que a represetação irlandesa sofre em meados do século XIX: o humano se torna primata"
+permalink: /analise-de-fonte/
+taxonomy: analise-de-fonte
 entries_layout: list # list (default), grid
 sort_by: date # date (default) title
 sort_order: reverse # forward (default), reverse
