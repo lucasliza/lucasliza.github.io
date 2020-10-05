@@ -11,8 +11,8 @@ classes: wide
 ---
 
 ### Artigos
+{: .text-justify}
 BROWNE, Janet. Darwin in caricature: A study in the popularisation and dissemination of evolution. Proceedings of the American Philosophical Society, [S. l.], v. 145, n. 4, p. 496-509, 2001.
-
 
 CÉSAR DE CAMPOS, Emerson; PETRY, Michele Bete. Histórias desenhadas: os usos das
 expressões gráficas de humor como fontes para a História. Revista Catarinense de História, [S. l.],
@@ -102,6 +102,7 @@ YOUNG, James Harvey. Harper’s Weekly on Health in America, 1876. Journal Of Th
 Medicine And Allied Sciences, [S. l.], v. 41, n. 2, p. 156-174, 1986.
 
 ### Livros
+{: .text-justify}
 ALTICK, Richard. Punch: the lively Youth of a British Institution, 1841-1851. Columbus: Ohio
 State University Press, 1997.
 
@@ -204,15 +205,13 @@ WHELEHAN, Niall. The Dynamiters: Irish Nationalism and Political Violence in the
 1867-1900. Cambridge: Cambridge University Press, 2012.
 
 ### Teses
-OLIVEIRA, Gustavo de Souza. Aspectos do ultramontanismo oitocentista: antônio ferreira viçoso e
-a congregação da missão em portugal e no brasil (1811-1875). 2015. 253 f. Tese (Doutorado) -
-Curso de História, Universidade Estadual de Campinas, Campinas, 2015.
+{: .text-justify}
+OLIVEIRA, Gustavo de Souza. Aspectos do ultramontanismo oitocentista: antônio ferreira viçoso e a congregação da missão em portugal e no brasil (1811-1875). 2015. 253 f. Tese (Doutorado) - Curso de História, Universidade Estadual de Campinas, Campinas, 2015.
 
 ### Dissertações
-MCGOVERN, William Patrick. Paddy and the Public: irish immigrants, new york city, and mass
-culture, 1830-1860. 2010. 112 f. Dissertação (Mestrado) - Curso de Arts, Duquesne University,
-Pittsburgh, 2010. Disponível em: https://dsc.duq.edu/etd/908. Acesso em: 24 set. 2020
+{: .text-justify}
+MCGOVERN, William Patrick. Paddy and the Public: irish immigrants, new york city, and mass culture, 1830-1860. 2010. 112 f. Dissertação (Mestrado) - Curso de Arts, Duquesne University, Pittsburgh, 2010. Disponível em: https://dsc.duq.edu/etd/908. Acesso em: 24 set. 2020
 
 ### Trabalhos de Conclusão de Curso
-BRENNER, Rob. Anglo or Apeman? Transatlantic Caricature and the New Irish Race, 1861-1872.
-2014. 86 f. TCC (Graduação) - Curso de História, University Of Vermont, Burlington, 2014.
+{: .text-justify}
+BRENNER, Rob. Anglo or Apeman? Transatlantic Caricature and the New Irish Race, 1861-1872. 2014. 86 f. TCC (Graduação) - Curso de História, University Of Vermont, Burlington, 2014.
