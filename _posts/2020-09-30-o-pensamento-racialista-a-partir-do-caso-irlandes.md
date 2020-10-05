@@ -57,7 +57,7 @@ explicativas a respeito das supostas diferenças existentes entre as raças ou e
 criminoso, o superior e o inferior, revelando, por fim, a posição das variadas raças na escala evolutiva[<sup>12</sup>](#ref12).
 
 {: .text-justify}
-Camper determinou que os seres humanos possuíam <span class="tool" data-tip="O método de Camper envolvia traçar uma linha que partia da frente dos dentes incisivos até a parte proeminente da testa. Esta era interseccionada por uma outra linha horizontal, desenhada da base do nariz ao orifício do ouvido, produzindo assim o 'ângulo facial'.">ângulos faciais</span> 106 entre 70 e 90 graus, estando os povos originários da África e Ásia mais próximos dos 70 graus e os povos de origem europeia europeus próximos aos 80 graus. Comparando todos estes às estátuas greco-romanas, que apresentavam um ângulo entre 100 e 85 graus, e orangotangos, entre 42 e 58 graus, afirmava que,
+Camper determinou que os seres humanos possuíam <span class="tool" data-tip="O método de Camper envolvia traçar uma linha que partia da frente dos dentes incisivos até a parte proeminente da testa. Esta era interseccionada por uma outra linha horizontal, desenhada da base do nariz ao orifício do ouvido, produzindo assim o 'ângulo facial'.">ângulos faciais</span> entre 70 e 90 graus, estando os povos originários da África e Ásia mais próximos dos 70 graus e os povos de origem europeia europeus próximos aos 80 graus. Comparando todos estes às estátuas greco-romanas, que apresentavam um ângulo entre 100 e 85 graus, e orangotangos, entre 42 e 58 graus, afirmava que,
 dentre todos, os povos africanos e asiáticos seriam aqueles que mais se distanciavam do senso clássico de beleza ideal[<sup>13</sup>](#ref13). Ao contrário do que se imagina, não aparentava ser de sua intenção
 sugerir a diferenciação entre europeus e não-europeus ou construir a noção de superioridade e inferioridade entre os mesmos[<sup>14</sup>](#ref14). Essa leitura de Camper, como dito anteriormente, viria a ser
 desenvolvida por frenologistas do século XIX para sustentar diferenças raciais e a suposta hierarquia entre as raças, assim como a utilização de sua teoria como evidência do poligenismo.
@@ -110,7 +110,7 @@ meados do século XIX, ela também era mais racista[<sup>18</sup>](#ref18).
 
 <a name="ref13">13.</a> MACHADO, Maria Helena Pereira Toledo. (Re)construindo a imagem de Renty: dos daguerreótipos de agassiz à campanha de-mounting agassiz. Revista Usp, São Paulo, n. 94, p. 146, 2012.
 
-<a name="ref14">14.</a> C.f:
+<a name="ref14">14.</a> C.f: MEIJER, M.C. Petrus Camper on the origin and color of blacks. Newsl Hist Anthropol. v. 24. n. 2., p. 3-9, 1997
 
 <a name="ref15">15.</a> WELLS, Samuel Roberts. New Physiognomy: or signs of character, as manifested through temperament and external forms, and especially in the “the human face divine.”. Nova York: Fowler & Wells, 1889, p. 125.
 
