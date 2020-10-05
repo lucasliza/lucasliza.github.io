@@ -4,10 +4,12 @@ author: Lucas Liza
 date: 2020-05-19T15:34:30-04:00
 classes: wide
 categories:
-  - projeto
+  - contexto-historico
 tags:
   - Fontes
   - Periódicos
+  - Punch Magazine
+  - Imprensa Ilustrada Inglesa
 ---
 {: .text-justify}
 Com mais de 161 anos de circulação, a britânica _Punch_ é uma das mais longevas revistas satíricas no mundo. Famosa por seus cartuns minuciosos  estima-se que, no auge de sua influência, teve papel crucial [ressignificação do termo _cartoon_]({{relative_url}}/projeto/os-cartuns-políticos-do-século-xix/). Além disso, através de seu conteúdo provocativo, comentou inúmeros acontecimentos políticos, sociais e culturais do Reino Unido - da rebelião de 1857 na então Índia Britânica à Segunda Guerra Mundial. Por conta disso, recebe intensa atenção dos historiadores e se coloca como uma notável fonte histórica dos séculox XIX e XX do país.
