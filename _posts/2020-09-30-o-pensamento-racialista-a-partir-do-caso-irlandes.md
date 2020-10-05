@@ -68,7 +68,7 @@ marcaria a bestialidade do indivíduo[<sup>15</sup>](#ref15), assim, a proximida
 diretamente proporcional, quanto menor o grau menor a capacidade intelectual.
 
 {% capture fig_img %}
-![WellsDegreesOfIntelligence1889]({{ "/assets/images/posts/WellsDegreesOfIntelligence1889.png" | relative_url }})
+![WellsDegreesOfIntelligence1889]({{ "/assets/images/posts/WellsDegreesOfIntelligence1889.jpg" | relative_url }})
 {% endcapture %}
 <figure>
 {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
