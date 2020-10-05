@@ -11,6 +11,7 @@ classes: wide
 ---
 
 ### Artigos
+
 {: .text-justify}
 BROWNE, Janet. Darwin in caricature: A study in the popularisation and dissemination of evolution. Proceedings of the American Philosophical Society, [S. l.], v. 145, n. 4, p. 496-509, 2001.
 
@@ -94,8 +95,8 @@ THOMAS, Samuel J. Mugwump Cartoonists, the Papacy, and Tammany Hall in America�
 {: .text-justify}
 WILLIAMS, Dominic. Punch and the Pogroms: Eastern Atrocities in John Tenniel’s Political Cartoons, 1876–1896. RACAR: Revue d’art canadienne, [S. l.], v. 42, n. 1, p. 32–47, 2017.
 
-{: .text-justify} YOUNG, James Harvey. Harper’s Weekly on Health in America, 1876. Journal Of The History Of
-Medicine And Allied Sciences, [S. l.], v. 41, n. 2, p. 156-174, 1986.
+{: .text-justify} 
+YOUNG, James Harvey. Harper’s Weekly on Health in America, 1876. Journal Of The History Of Medicine And Allied Sciences, [S. l.], v. 41, n. 2, p. 156-174, 1986.
 
 ### Livros
 {: .text-justify}
