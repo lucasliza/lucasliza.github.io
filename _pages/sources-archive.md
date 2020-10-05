@@ -15,3 +15,24 @@ header:
   caption: ""
 classes: wide
 ---
+
+### Punch, Or the London Charivari
+Disponível em:
+https://sites.google.com/site/punchvolumes
+https://onlinebooks.library.upenn.edu/webbin/serial?id=punch
+
+### Harper's Weekly, A Journal of civilization
+Disponível em:
+https://onlinebooks.library.upenn.edu/webbin/serial?id=harpersweekly
+https://catalog.hathitrust.org/Record/000061498
+
+### Puck
+Versão Inglesa disponível em:
+https://catalog.hathitrust.org/Record/008886840
+
+Versão Alemã disponível em:
+https://catalog.hathitrust.org/Record/000495155
+
+### Judy, or the London Serio-comic Journal
+Disponível em:
+https://catalog.hathitrust.org/Record/100542374
