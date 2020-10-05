@@ -4,7 +4,7 @@ author: Lucas Liza
 date: 2020-09-29T16:34:30-04:00
 classes: wide
 categories:
-  - analise-de-fonte
+  - contexto-historico
 tags:
 - An Gorta Mór
 - Grande Fome Irlandesa
@@ -15,7 +15,10 @@ tags:
 {: .text-justify}
 A _An Gorta Mór_[<sup>1</sup>](#ref1) foi a maior calamidade social – em termos de mortalidade e sofrimento – já experimentado pela Irlanda. Ampliando o escopo geográfico, foi o pior desastre baseado em questões agrícolas da Europa na contemporaneidade. Cerca de 1 milhão de pessoas morreram e  outra parcela, estimada de 1 milhão a 1 milhão e meio de pessoas, emigraram da ilha em direção aos Estados Unidos, Canadá, África do Sul, Austrália, Nova Zelândia, Argentina, entre outros[<sup>2</sup>](#ref2). É considerada um trauma social na história da Irlanda: seus efeitos modificaram a longo prazo o panorama demográfico, político e cultural irlandês, sendo um dos eventos mais relembrados pelos movimentos nacionalistas irlandeses. No campo cultural, a posição de trauma que o evento ocupa na memória irlandesa pode ser explorada pela própria produção cultural. Somente em 2018, 171 anos após o ano mais grave da Fome, foi lançado _BLACK 47_ o primeiro filme nacional com esta ambientação histórica - cujo trailer está a seguir.
 
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/q1W1DLwg3lk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<caption> Trailer do Filme irlandês BLACK 47 (2018) </caption>
+
 
 {: .text-justify}
 O desastre eclodiu quando um fungo, _Phytopthora infestans_, danificou as plantações de batata na ilha, resultando em uma séria escassez de alimentos tanto nas casas dos camponeses
@@ -25,12 +28,14 @@ cultivo de batatas, que podiam ser plantadas em qualquer tipo de solo – mesmo 
 {: .text-justify}
 A primeira grande onda migratória influenciada pela fome, argumenta Bruce Baum, foi um dos primeiros antecedentes diretos do pensamento racial europeu e estadunidense. Entre 1841 e 1861, a chegada de cerca de meio milhão de imigrantes irlandeses para Inglaterra foi vista como uma “invasão urbana”[<sup>3</sup>](#ref3). De forma similar, nos Estados Unidos a população irlandesa teve um aumento aproximado de 1.5 milhões até 1860, como mostra a tabela a seguir.
 
-{% capture fig_img %} ![IrishImmigrationTable]({{ "/assets/images/posts/IrishImmigrationTable.png" | relative_url }}) {% endcapture %}
+{% capture fig_img %}
+![IrishImmigrationTable]({{ "/assets/images/posts/IrishImmigrationTable.png" | relative_url }})
+{% endcapture %}
 
-{{ fig_img | markdownify | remove: "
-" | remove: "
-
-" }} Figura 1 - Adaptado de AKENSON, D. H.. An Agnostic View of the Historiography of the Irish-Americans. Labour / Le Travail, [S.l.], v. 14, p. 132, 1984.
+<figure>
+{{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+<figcaption> Figura 1 - Adaptado de AKENSON, D. H.. An Agnostic View of the Historiography of the Irish-Americans. Labour / Le Travail, [S.l.], v. 14, p. 132, 1984. </figcaption>
+</figure>
 
 {: .text-justify}
 No período anterior à Grande Fome, notamos, a partir dos dados da tabela, que existia um considerável movimento de emigração irlandês. Entre 1825 e 1840, cerca de 250 mil pessoas já
@@ -42,14 +47,11 @@ camponeses irlandeses que, devastados pela fome e em luto, fugiram da Irlanda, a
 que para a vizinha Grã-Bretanha, David Fitzpatrick explica, parcialmente, o motivo dessa escolha
 
 > <span class="tool" data-tip="a emigração para os Estados Unidos foi, em grande parte, um movimento em cadeia cuja escala aumentou muito durante e logo após a Grande Fome. Milhares de irlandeses empobrecidos chegaram às
-cidades industriais da Grã-Bretanha em um momento de alto desemprego e recessão econômica [...] Mesmo que os Estados Unidos também tenham sofrido com a recessão econômica em meados do século XIX, ainda havia demanda suficiente para trabalho não-especializado e ocasional podendo empregar muito mais imigrantes irlandeses do que o mercado britânico poderia absorver [...] Assim, o "Êxodo inicial" para os Estados Unidos pode ser, em grande parte, devido ao fato de que a Grande Fome irlandesa coincidiu com a recessão industrial na Grã-Bretanha">the American emigration was largely a chain movement which greatly increased in scale
+cidades industriais da Grã-Bretanha em um momento de alto desemprego e recessão econômica [...] Mesmo que os Estados Unidos também tenham sofrido com a recessão econômica em meados do século XIX, ainda havia demanda suficiente para trabalho não-especializado e ocasional podendo empregar muito mais imigrantes irlandeses do que o mercado britânico poderia absorver [...] Assim, o 'Êxodo inicial' para os Estados Unidos pode ser, em grande parte, devido ao fato de que a Grande Fome irlandesa coincidiu com a recessão industrial na Grã-Bretanha">the American emigration was largely a chain movement which greatly increased in scale
 during and soon after the Famine. Thousands of impoverished Irishmen arrived in the
-industrial cities of Britain at a moment of high unemployment and economic recession […]
-Even though the United States also suffered from the economic recession during the
+industrial cities of Britain at a moment of high unemployment and economic recession […] Even though the United States also suffered from the economic recession during the
 midnineteenth century, there was still enough demand for unskilled and casual labor to
-employ far more of the Irish immigrants than the British market could absorb […] Thus the
-‘initial exodus’ to the United States may be largely due to the fact that the Irish potato
-famine coincided with the industrial recession in Great Britain </span>[<sup>6</sup>](#ref6)
+employ far more of the Irish immigrants than the British market could absorb […] Thus the ‘initial exodus’ to the United States may be largely due to the fact that the Irish potato famine coincided with the industrial recession in Great Britain</span>[<sup>6</sup>](#ref6)
 
 {: .text-justify}
 No entanto, esse movimento não foi bem recebido nos Estados Unidos[<sup>7</sup>](#ref7), um indicativo  disso é que o termo “irlandês” tornou-se sinônimo de pobreza, crime, alcoolismo e violência. Como
@@ -59,7 +61,7 @@ um cidadão nova-iorquino da época observa:
 Irlanda.">If a swindler, thief, robber, or murderer, no matter what his color or country commit any abominable act, he is instantly set down as a native of Ireland.</span>[<sup>8</sup>](#ref8).
 
 {: .text-justify}
-Ao chegarem no país, grande parte sem recursos, foram relegados a ocupar os piores postos de trabalho – pagavam pouco, eram em maioria exploratórios e, geralmente, de expressiva periculosidade[<sup>9</sup>](#ref9). Nesse sentido, segundo Baum, a intensa imigração irlandesa nos Estados Unidos converge com um crescente discurso, forjado pelas elites anglo-americanas, que associa a nacionalidade “estadunidense” ao anglo-saxonismo. Essa conjuntura levara a produção de um discurso racial acerca dos irlandeses de forma similar à que acontecia na Inglaterra [<sup>10</sup>](#ref10). Concentrando sua chegada nos estados do norte dos Estados Unidos, e, especialmente, na
+Ao chegarem no país, grande parte sem recursos, foram relegados a ocupar os piores postos de trabalho – pagavam pouco, eram em maioria exploratórios e, geralmente, de expressiva periculosidade[<sup>9</sup>](#ref9). Nesse sentido, segundo Baum, a intensa imigração irlandesa nos Estados Unidos converge com um crescente discurso, forjado pelas elites anglo-americanas, que associa a nacionalidade “estadunidense” ao anglo-saxonismo. Essa conjuntura levara a produção de um discurso racial acerca dos irlandeses de forma similar à que acontecia na Inglaterra[<sup>10</sup>](#ref10). Concentrando sua chegada nos estados do norte dos Estados Unidos, e, especialmente, na
 cidade de Nova York estes imigrantes se acomodavam em bairros já superlotados, onde as condições de higiene e saneamento eram inadequadas. Assim, as condições em que os irlandeses viviam passaram a ser percebidas como suas características[<sup>11</sup>](#ref11). Dividiam, ainda, os mesmos bairros e competiam pelos mesmos empregos de baixos salários e condições com outro grupo inferiorizado, os negros, fato que contribuía e alimentava sua comparação com estes. Dessa forma, vamos de encontro a Garner, quando este afirma que
 
 > <span class="tool" data-tip="Quando a ordem da brancura é perturbada (por brancos fazendo trabalhos de negros e vivendo nas mesmas áreas residenciais que os negros), a imagem do macaco permite que aqueles da fora da situação
