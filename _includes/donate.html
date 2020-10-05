@@ -1,6 +1,8 @@
 <div class="page__donate">
   {% if site.data.ui-text[site.locale].support_label %}
-    <span class="page__donate-title">{{ site.data.ui-text[site.locale].support_label | default: "Apoie este projeto" }}</span>
+    <div style="font-size: large; margin-bottom: 0.2em;">
+      <span class="page__donate-title">{{ site.data.ui-text[site.locale].support_label | default: "Apoie o projeto:" }}</span>
+    </div>
   {% endif %}
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="lucasliza" data-color="#000000" data-emoji=""  data-font="Cookie" data-text="Me dê um café" data-outline-color="#fff" data-font-color="#fff" data-coffee-color="#fd0" ></script>
+      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="lucasliza" data-color="#000000" data-emoji=""  data-font="Cookie" data-text="Me dê um café" data-outline-color="#fff" data-font-color="#fff" data-coffee-color="#fd0" ></script>
 </div>
