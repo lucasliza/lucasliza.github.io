@@ -10,56 +10,209 @@ author_profile: true
 classes: wide
 ---
 
-ALTICK, Richard D.. Punch: The Lively Youth of a British Institution, 1841–1851. Columbus: Ohio State University Press, 1997.
+### Artigos
+BROWNE, Janet. Darwin in caricature: A study in the popularisation and dissemination of evolution. Proceedings of the American Philosophical Society, [S. l.], v. 145, n. 4, p. 496-509, 2001.
 
-BENJAMIN, W. A Obra de arte na Era de Sua Reprodutibilidade Técnica (Org. e Prefácio – Márcio Seligmann-Silva), Tradução: Gabriel Valladão Silva, 1ª Edição, Porto Alegre, RS: L&PM, 2013.
 
-BAYLY, C. a. et al. AHR Conversation: On Transnational History. The American Historical Review, [s.l.], v. 111, n. 5, p.1441-1464, dez. 2006. Oxford University Press.
+CÉSAR DE CAMPOS, Emerson; PETRY, Michele Bete. Histórias desenhadas: os usos das
+expressões gráficas de humor como fontes para a História. Revista Catarinense de História, [S. l.],
+v. 17, p. 117–135, 2009.
 
-BROWNE, Janet. Darwin in Caricature: A Study in the Popularisation and Dissemination of Evolution. Proceedings Of The American Philosophical Society, [s.i], v. 145, n. 4, p.496-509, dez. 2001.
+CULBERTSON, Tom. The Golden Age of American Political Cartoons. The Journal Of The Gilded
+Age And Progressive Era, [S. l.], v. 7, n. 3, p. 277-295, jul. 2008.
 
-CAÑIZARES-ESGUERRA, Jorge; SEEMAN, Erik R. (Ed.). The Atlantic in Global History, 1500 - 2000. Nova Jersey: Prentice Hall, 2006.
+CODELL, Julie F. Imperial Differences and Culture Clashes in Victorian Periodicals’ Visuals: The
+Case of Punch. Victorian Periodicals Review, [S. l.], v. 39, n. 4, p. 410–428, 2006.
 
-CASEY, Donal. 19th-Century Irish ‘Ape-Man’ Cartoons and the Aesthetic of the Grotesque. 2014. 133 f. Dissertação (Mestrado) - Curso de Filosofia, Trinity College Dublin, Dublin, 2015.
+ELLEGARD, Alvar. The Readership of the Periodical Press in Mid-Victorian Britain. Victorian
+Periodicals Newsletter, [S. l.], v. 4 n. 3, p. 3-22, 1971.
 
-CHARTIER, Roger. A história cultural entre práticas e representações. Rio de Janeiro, RJ; Lisboa [Portugal]: Bertrand Brasil: DIFEL, 1990.
+FITZPATRICK, David. Irish Emigration in the Later Nineteenth Century. Irish Historical Studies,
+[S. l], v. 22, n. 86, p. 126-143, 1980.
 
-CHARTIER, Roger. A ordem dos livros: leitores, autores e bibliotecas na Europa entre os séculos XIV e XVIII. Brasília, DF: UnB, 1994,
+FORKER, Martin. The use of the 'cartoonist's armoury' in manipulating public opinion: anti-Irish
+imagery in 19th century British and American periodicals. Journal Of Irish Studies, S.i, v. 27, p. 58-
+71, 2012.
 
-CURTIS, Lewis Perry. Apes and angels: the Irishman in Victorian caricature. Washington: Smithsonian Institution Press, 1971.
+GRIFFITHS, T. R. “This Island”s mine’: Caliban and Colonialism. The Yearbook of English
+Studies, v. 13, p. 159-180. 1983.
 
-DELANEY, Enda. Directions in historiography: Our island story? Towards a transnational history of late modern Ireland. Irish Historical Studies, [s.l.], v. 37, n. 148, p.599-621, nov. 2011. Cambridge University Press.
+HARRISON, John. The Lawfulness of the Reconstruction Amendments. The University Of
+Chicago Law Review, [S.L.], v. 68, n. 2, p. 375-462, 2001.
 
-FORKER, Martin. The use of the 'cartoonist's armoury' in manipulating public opinion: anti-Irish imagery in 19th century British and American periodicals. Journal Of Irish Studies, S.i, v. 27, p.58-71, 2012.
+HUTSON, A. E. Gaelic Loan-Words in American. American Speech, [S. l.], v. 22 n. 1, p. 18-23,
+1947.
 
-FOSTER, R. F.. Paddy and Mr. Punch: Connections in Irish and English History. S.i: Penguin, 1995.
+JACKSON, Pauline. Women in 19th Century Irish Emigration. International Migration Review, [S.
+l], v. 18, n. 4, p. 1004-1020, 1984.
 
-GILLEY, Sheridan. English attitudes to the Irish in England, 1780-1900. In: HOLMES, Colin (Ed.). Immigrants and minorities in British society. London: Allen & Unwin, 1978. p. 81-110.
+JARMAN, Baird. The Graphic Art of Thomas Nast: politics and propriety in postbellum publishing.
+American Periodicals: A Journal of History, Criticism, and Bibliography, [S. l.], v. 20, n. 2, p. 156-
+189, 2010.
 
-GILROY, Paul. O Atlântico negro: modernidade e dupla consciência. Trad. Cid Knipel Moreira. São Paulo: Editora 34; Rio de Janeiro: Universidade Cândido Mendes, Centro de Estudos Afro-Asiáticos, 2012
+JOHNSON, Jamie W. The Changing Representation of the Art Public in “Punch”, 1841-1896.
+Victorian Periodicals Review, [S. l.], v. 35, n. 3, p. 272–294, 2002.
 
-HUND, Wulf; MILLS, Charles; SEBASTIANI, Silvia (Ed.). Simianization: Apes, Gender, Class, and Race. S.i: Lit Verlag Münster, 2015.
+KEMNITZ, Thomas Milton. The Cartoon as a Historical Source. Journal Of Interdisciplinary
+History, [S.L.], v. 4, n. 1, p. 81-93, 1973.
 
-MAGEE, Gary; THOMPSON, Andrew. Empire and Globalisation: Networks of People, Goods and Capital in the British World, c.1850-1914. Cambridge: Cambridge University Press, 2010. 314 p.
+KINGSLEY, Frances Eliza. Charles Kingsley: his letters and memories of his life. Londres:
+Macmillan, 1899. Disponível em: https://archive.org/details/b2485735x/. Acesso em: 22 set. 2020.
 
-MCGUIRE, Kathleen Diane. The Transatlantic Paddy: The Making of a Transnation Irish Identity in Nineteenth-Century America. 2009. 346 f. Tese (Doutorado) - Curso de História, University Of California, Riverside, 2009.
+KUNZLE, David. The First Ally Sloper: The Earliest Popular Cartoon Character as a Satire on the
+Victorian Work Ethic. Oxford Art Journal, [S. l.], v. 8, n. 1, p. 44, 1985.
 
-MCMAHON. Caricaturing Race and Nation in the Irish American Press, 1870-1880: A Transnational Perspective. Journal Of American Ethnic History, [s.l.], v. 33, n. 2, p.33-56, 2014. University of Illinois Press.
+MACHADO, Maria Helena Pereira Toledo. (Re)construindo a imagem de Renty: dos
+daguerreótipos de agassiz à campanha de-mounting agassiz. Revista Usp, São Paulo, n. 94, p. 142-
+153, 2012.
 
-MICHIE, Elsie. From Simianized Irish to Oriental Despots: Heathcliff, Rochester and Racial Difference. Novel: A Forum on Fiction, [s.l.], v. 25, n. 2, p.125-140, 1992.
+MARTIN, Amy. E. Victorian Ireland: Race and the Category of the Human. Victorian Review, [S.
+l.], v. 40 n. 1, p. 52–57, 2014.
 
-NICHOLSON, Bob. Transatlantic Connections. In: KING, Andrew; EASLEY, Alexis; MORTON, John (Ed.). The Routledge Handbook to Nineteenth-Century British Periodicals and Newspapers. New York: Routledge, 2016. p. 165.
+MAURER, Oscar. “‘Punch’ on Slavery and Civil War in America 1841-1865.” Victorian Studies, v.
+1, n. 1, p. 5–28, 1957.
 
-NIE, Michael de. The eternal Paddy: Irish identity and the British press, 1798-1882. Madison: University Of Wisconsin Press, 2004.
+MILLER, Henry J.. John Leech and the Shaping of the Victorian Cartoon: the context of
+respectability. Victorian Periodicals Review, [S.L.], v. 42, n. 3, p. 267-291, 2009.
 
-O'NEILL, P.; LLOYD, D. (Ed.). The Black and Green Atlantic: Cross-Currents of the African and Irish Diasporas. S.i: Palgrave Macmillan Uk, 2009.
+NIE, Michael. “A Medley Mob of Irish-American Plotters and Irish Dupes”: The British Press and
+Transatlantic Fenianism. The Journal of British Studies, v. 40 n, 2, p. 213-240, 2001.
 
-PAINE, Albert Bigelow. TH. Nast: His Period And His Pictures. New York: Macmillan, 1904.
+PAZ, D. G. Anti-Catholicism, Anti-Irish Stereotyping, and Anti-Celtic Racism in Mid-Victorian
+Working-Class Periodicals. Albion: A Quarterly Journal Concerned with British Studies, vol. 18 n.
+4, p. 601–616, 1986.
 
-SOUSA, R. Da Feminização à Remasculinização: Gênero e Raça na Dialética Anglo Irlandesa. Dissertação (Mestrado em Estudos Literários). 361f. Programa de Mestrado em Letras, Universidade Federal de São João del-Rei, São João del-Rei, 2013.
+SCULLY, Richard. A Comic Empire: The Global Expansion of Punch as a Model Publication,
+1841-1936. International Journal of Comic Art, Vol. 15, No. 2, p. 6-40, 2013a.
 
-TUATHAIGH, M. A. G. O. The Irish in Nineteenth-Century Britain: Problems of Integration. Transactions Of The Royal Historical Society, [s.l.], v. 31, p.149-173, 1981. Cambridge University Press.
+______. William Henry Boucher (1837-1906): illustrator and judy cartoonist. Victorian Periodicals
+Review, [S. l.], v. 46, n. 4, p. 441-474, 2013b.
 
-WHELEHAN, Niall. Revolting Peasants: Southern Italy, Ireland, and Cartoons in Comparative Perspective, 1860–1882. International Review Of Social History, [s.l.], v. 60, n. 01, p.1-35, 23 mar. 2015. Cambridge University Press.
+SHAPIRO, H. The Ku Klux Klan During Reconstruction: The South Carolina Episode. The Journal
+of Negro History, [S. l.], v. 49 n. 1, p. 34–55, 1964.
 
-WHELEHAN, Niall. The Dynamiters: Irish Nationalism and Political Violence in the Wider World, 1867-1900. Cambridge: Cambridge University Press, 2012. 324 p.
+THOMAS, Samuel J. Mugwump Cartoonists, the Papacy, and Tammany Hall in America’s Gilded
+Age. Religion and American Culture: A Journal of Interpretation, [S. l.], v. 14, n. 2, p. 213–250,
+2004.
+
+WILLIAMS, Dominic. Punch and the Pogroms: Eastern Atrocities in John Tenniel’s Political
+Cartoons, 1876–1896. RACAR: Revue d’art canadienne, [S. l.], v. 42, n. 1, p. 32–47, 2017.
+
+YOUNG, James Harvey. Harper’s Weekly on Health in America, 1876. Journal Of The History Of
+Medicine And Allied Sciences, [S. l.], v. 41, n. 2, p. 156-174, 1986.
+
+### Livros
+ALTICK, Richard. Punch: the lively Youth of a British Institution, 1841-1851. Columbus: Ohio
+State University Press, 1997.
+
+BAUM, Bruce. The Rise and Fall of the Caucasian Race: a political history of racial identity. Nova
+York: NYU Press, 2008.
+
+BRAKE, Laurel; DEMOOR, Marysa. Dictionary of Nineteenth-century Journalism in Great Britain
+and Ireland. [S. l]: Academia Press, 2009.
+
+CARLISLE, Janice. Picturing Reform in Victorian Britain. [S. L]: Cambridge University Press,
+2014.
+
+CASEY, Marion R.. The limits of equality: racial and ethnic tensions in the New Republic. In:
+
+BAYOR, Ronald H. (Ed.). Race and ethnicity in America: a concise history. Nova York: Columbia
+University Press, 2003.
+
+CURTIS, Lewis Perry. Apes and angels: the irishman in victorian caricature. 2. ed. Washington,
+D.C: Smithsonian Institution Press, 1997. Disponível em:
+https://archive.org/details/apesangelsirishm00curt. Acesso em: 15 jun. 2020.
+
+FAHS, Alice. The Imagined Civil War: popular literature of the north & south, 1861-1865. [S. l]:
+The University Of North Carolina Press, 2001.
+
+FONSECA, Joaquim da. Caricatura: a imagem gráfica do humor. Porto Alegre: Artes e Ofícios,
+1999.
+
+GARNER, Steve. The Simianization of the Irish Racial Ape-ing and Its Contexts. In: HUND, Wulf;
+
+MILLS, Charles; SEBASTIANI, Silvia (Ed.). Simianization: Apes, Gender, Class, and Race.. S.i:
+Lit Verlag Münster, 2015.
+
+HALLORAN, Fiona.. Thomas Nast: The Father of Modern Political Cartoons, Chapel Hill:
+University of North Carolina Press, 2012.
+
+HARDER, Hans; MITTLER, Barbara (ed.). Asian Punches: a transcultural affair. Heidelberg:
+Springer, 2013.
+
+HARPER, Joseph Henry. The house of Harper: a century of publishing in franklin square. Nova
+York: Harper, [1912]. Disponível em: https://archive.org/details/houseofharpercen00harp. Acesso
+em: 19 ago. 2020.
+
+KAHN, Michael Alexander; WEST, Richard Samuel. Puck: what fools these mortals be!. [S. l.]:
+Idw Publishing, 2014.
+
+KNOX, Robert. The races of men: a fragment. Philadelphia: Lea & Blanchard, 1850. Disponível
+em: «https://archive.org/details/racesofmenfragme00knox». Acesso em: 20 set. 2020.
+
+LEARY, Patrick. The Punch Brotherhood: table talk and print culture in mid-victorian london, [S.
+l.]: The British Library Publishing Division, 2010.
+
+LESLIE, Sir Stephen. Dictionary of national biography. Nova York: Macmillan, 1895. Volume 43.
+Disponível em: https://archive.org/details/dictionaryofnati43stepuoft. Acesso em: 28 set. 2020.
+
+MOTT, Frank. A history of American magazines: Volume II (1850-1865). Cambridge,
+Massachusetts: Harvard University Press, 1957a. Disponível em:
+https://archive.org/details/historyofamerica0002mott. Acesso em: 13 ago. 2020.
+
+______. A history of American magazines: volume III (1865-1885). Cambridge, Massachusetts:
+Harvard University Press, 1957b, Disponível em:
+https://archive.org/details/historyofamerica0003mott. Acesso em: 21 ago. 2020.
+
+NIE, Michael de. The eternal Paddy: Irish identity and the British press, 1798-1882. Madison:
+University Of Wisconsin Press, 2004.
+
+PAINE, Albert Bigelow. TH. Nast: His Period And His Pictures. Nova York: Macmillan, 1904.
+
+PESAVENTO, Sandra Jatahy. Porto Alegre Caricata: a imagem conta a história. Porto Alegre,
+EU/Secretaria Municipal da Cultura, 1993.
+
+PRICE, R.G.G. A History of Punch. Edinburgo: Collins Sons & Co LTD., 1957.
+
+RIVERS, Kenneth T. Transmutations. Understanding Literary and Pictorial Caricature. Lanham,
+Maryland: London: University Press of America, 1991.
+
+RUSKIN, John. The Art of England: Lectures Given at Oxford. 1884. Nova York: J. Willey & Sons,
+1884. Disponível em: https://archive.org/details/artofenglandlect1884rusk. Acesso em: 01 jun.
+2020.
+
+SCHWARCZ, Lilia Moritz. O espetáculo das raças: cientistas, instituições e questão racial no
+Brasil, 1870-1930. São Paulo: Companhia das Letras, 1993.
+
+SCULLY, Richard; VARNAVA, Andrekos. Introduction: the importance of cartoons, caricature, and
+satirical art in imperial contexts. In: SCULLY, Richard; VARNAVA, Andrekos (ed.). Comic
+empires: imperialism in cartoons, caricature, and satirical art. Manchester: Manchester University
+Press, 2020. p. 1-27.
+
+SMITH, David; PANAITIU, Ioana. Aping the Human Essence Simianization as Dehumanization.
+In: HUND, Wulf; MILLS, Charles; SEBASTIANI, Silvia (Ed.). Simianization: Apes, Gender, Class,
+and Race. S.i: Lit Verlag Münster, 2015.
+
+SPIELMANN, Marion Harry. The History of “Punch”. Londres: Cassell, 1895.
+
+STEPAN, Nancy. The Idea Of Race In Science: great britain 1800-1960. Londres: The Macmillan
+Press, 1984
+
+STOCKING JUNIOR, George W.. Victorian Anthropology. Nova York: Free Press, 1991.
+
+WHELEHAN, Niall. The Dynamiters: Irish Nationalism and Political Violence in the Wider World,
+1867-1900. Cambridge: Cambridge University Press, 2012.
+
+### Teses
+OLIVEIRA, Gustavo de Souza. Aspectos do ultramontanismo oitocentista: antônio ferreira viçoso e
+a congregação da missão em portugal e no brasil (1811-1875). 2015. 253 f. Tese (Doutorado) -
+Curso de História, Universidade Estadual de Campinas, Campinas, 2015.
+
+### Dissertações
+MCGOVERN, William Patrick. Paddy and the Public: irish immigrants, new york city, and mass
+culture, 1830-1860. 2010. 112 f. Dissertação (Mestrado) - Curso de Arts, Duquesne University,
+Pittsburgh, 2010. Disponível em: https://dsc.duq.edu/etd/908. Acesso em: 24 set. 2020
+
+### Trabalhos de Conclusão de Curso
+BRENNER, Rob. Anglo or Apeman? Transatlantic Caricature and the New Irish Race, 1861-1872.
+2014. 86 f. TCC (Graduação) - Curso de História, University Of Vermont, Burlington, 2014.
