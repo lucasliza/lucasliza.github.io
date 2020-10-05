@@ -102,7 +102,7 @@ se parecem com as de cabras. Também atrai nossa atenção os gestos que ele rea
 {% endcapture %}
 <figure>
 {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-<figcaption> Figura 3 – John Tenniel. The Irish “Tempest” (1870). </figcaption>
+<figcaption> Figura 4 – John Tenniel. The Irish “Tempest” (1870). </figcaption>
 </figure>
 
 {: .text-justify}
