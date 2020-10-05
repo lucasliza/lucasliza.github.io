@@ -18,7 +18,7 @@ Punch.
 O subtítulo de Harper’s Weekly, que a anuncia como a "Revista da Civilização", ao ser analisado lado a lado com sua identidade visual se mostra benéfico para a compreensão de sua abordagem editorial. Desde sua estreia, a primeira imagem que encontramos no periódico é o seu característico banner, como mostra a imagem abaixo.
 
 {% capture fig_img %}
-![HarpersWeeklyBanner]({{ "/assets/images/posts/HarpersWeeklyBanner.png" | relative_url }})
+![HarpersWeeklyBanner]({{ "/assets/images/posts/HarpersWeeklyBanner.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
