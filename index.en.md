@@ -3,6 +3,8 @@ layout: default
 title: Home
 lang: en
 permalink: /
+nav_key: home
+nav_order: 1
 ---
 <div class="hero">
     <div class="hero-grid">

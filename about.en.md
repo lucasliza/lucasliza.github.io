@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
+header: About
 permalink: /about/
 lang: en
+nav_key: about
+nav_order: 2
 ---
 
 I am a dedicated history educator passionate about making the past meaningful for today's students. Through inquiry-based learning and critical analysis, I help students develop the skills to understand how historical forces shape our world.

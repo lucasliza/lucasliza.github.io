@@ -1,0 +1,267 @@
+# ============================================
+# Traduções centralizadas para todo o site
+# ============================================
+
+# NAVEGAÇÃO
+nav:
+  home:
+    pt-BR: Início
+    en: Home
+    es: Inicio
+    fi: Etusivu
+    fr: Accueil
+  about:
+    pt-BR: Sobre
+    en: About
+    es: Acerca
+    fi: Tietoa
+    fr: À Propos
+  philosophy:
+    pt-BR: Filosofia
+    en: Philosophy
+    es: Filosofía
+    fi: Filosofia
+    fr: Philosophie
+  projects:
+    pt-BR: Projetos
+    en: Projects
+    es: Proyectos
+    fi: Projektit
+    fr: Projets
+  contact:
+    pt-BR: Contato
+    en: Contact
+    es: Contacto
+    fi: Yhteys
+    fr: Contact
+
+# PÁGINA INICIAL (HOME)
+home:
+  title:
+    pt-BR: Página Inicial
+    en: Home
+    es: Página de Inicio
+    fi: Etusivu
+    fr: Page d'Accueil
+  subtitle:
+    pt-BR: Professor de História
+    en: History Teacher
+    es: Profesor de Historia
+    fi: Historian Opettaja
+    fr: Professeur d'Histoire
+  description_1:
+    pt-BR: "Mestre em História pela Universidade Estadual de Campinas (UNICAMP), instituição pela qual também me graduei como Bacharel e Licenciado em História. Leciono desde 2018, possuindo experiência em instituições de ensino públicas e privadas, cursos pré-vestibular e aulas particulares."
+    en: "Master's in History from the State University of Campinas (UNICAMP), where I also graduated with a Bachelor's and Teaching degree in History. I have been teaching since 2018, with experience in public and private educational institutions, pre-university courses, and private tutoring."
+    es: "Máster en Historia por la Universidad Estatal de Campinas (UNICAMP), institución por la cual también me gradué como Licenciado y Profesor en Historia. Enseño desde 2018, con experiencia en instituciones educativas públicas y privadas, cursos preuniversitarios y clases particulares."
+    fi: "Historian maisterin tutkinto Campinas State Universitystä (UNICAMP), jossa suoritin myös historian kandidaatin ja opettajan tutkinnon. Olen opettanut vuodesta 2018, kokemusta julkisista ja yksityisistä oppilaitoksista, yliopistoon valmistavista kursseista ja yksityisopetuksesta."
+    fr: "Master en Histoire de l'Université d'État de Campinas (UNICAMP), institution où j'ai également obtenu une Licence et un diplôme d'enseignement en Histoire. J'enseigne depuis 2018, avec une expérience dans des établissements d'enseignement publics et privés, des cours préparatoires à l'université et du tutorat privé."
+  description_2:
+    pt-BR: "Meu foco está no desenvolvimento integral dos estudantes, assumindo o compromisso de fomentar a autonomia e o pensamento crítico dos mesmos em ambientes multiculturais e em atingir resultados pedagógicos positivos. Expertise em abordagens de aprendizagem ativas, na gestão da sala de aula e em práticas pedagógicas alinhadas às competências do século XXI."
+    en: "My focus is on the comprehensive development of students, committed to fostering their autonomy and critical thinking in multicultural environments and achieving positive pedagogical outcomes. Expertise in active learning approaches, classroom management, and pedagogical practices aligned with 21st-century skills."
+    es: "Mi enfoque está en el desarrollo integral de los estudiantes, comprometido a fomentar su autonomía y pensamiento crítico en entornos multiculturales y lograr resultados pedagógicos positivos. Experiencia en enfoques de aprendizaje activo, gestión del aula y prácticas pedagógicas alineadas con las competencias del siglo XXI."
+    fi: "Keskityn opiskelijoiden kokonaisvaltaiseen kehitykseen, sitoutuen edistämään heidän autonomiaansa ja kriittistä ajatteluaan monikulttuurisissa ympäristöissä ja saavuttamaan positiivisia pedagogisia tuloksia. Asiantuntemusta aktiivisen oppimisen lähestymistavoissa, luokkahuoneen hallinnassa ja 2000-luvun taitoihin sovitetuissa pedagogisissa käytännöissä."
+    fr: "Mon objectif est le développement global des étudiants, engagé à favoriser leur autonomie et leur pensée critique dans des environnements multiculturels et à obtenir des résultats pédagogiques positifs. Expertise dans les approches d'apprentissage actif, la gestion de classe et les pratiques pédagogiques alignées sur les compétences du 21e siècle."
+  btn_learn_more:
+    pt-BR: Saiba mais
+    en: Learn More
+    es: Conocer Más
+    fi: Lue Lisää
+    fr: En Savoir Plus
+  btn_contact:
+    pt-BR: Entre em contato
+    en: Get In Touch
+    es: Contactar
+    fi: Ota Yhteyttä
+    fr: Contactez-moi
+  welcome_title:
+    pt-BR: Olá, seja bem-vindo ao meu portfólio
+    en: Welcome to My Portfolio
+    es: Bienvenido a Mi Portafolio
+    fi: Tervetuloa Portfoliooni
+    fr: Bienvenue sur Mon Portfolio
+  welcome_text:
+    pt-BR: "Neste espaço, apresento minha trajetória como professor com métodos de ensino inovadores, desenvolvimento de currículos e uma coleção de recursos criados para inspirar o pensamento crítico e a alfabetização histórica nos alunos."
+    en: "This portfolio showcases my journey as a history educator, featuring innovative teaching methods, curriculum development, and a collection of resources designed to inspire critical thinking and historical literacy in students."
+    es: "Este portafolio muestra mi trayectoria como educador de historia, presentando métodos de enseñanza innovadores, desarrollo curricular y una colección de recursos diseñados para inspirar el pensamiento crítico y la alfabetización histórica en los estudiantes."
+    fi: "Tämä portfolio esittelee matkaani historian opettajana, esitellen innovatiivisia opetusmenetelmiä, opetussuunnitelman kehittämistä ja kokoelman resursseja, jotka on suunniteltu inspiroimaan kriittistä ajattelua ja historiallista lukutaitoa opiskelijoissa."
+    fr: "Ce portfolio présente mon parcours en tant qu'éducateur en histoire, mettant en avant des méthodes d'enseignement innovantes, le développement de programmes et une collection de ressources conçues pour inspirer la pensée critique et la littératie historique chez les étudiants."
+
+# PÁGINA SOBRE (ABOUT)
+about:
+  title:
+    pt-BR: Sobre mim
+    en: About Me
+    es: Acerca de Mí
+    fi: Tietoa Minusta
+    fr: À Propos de Moi
+  intro_1:
+    pt-BR: "Sou um professor de história dedicado e apaixonado por tornar o passado significativo para os alunos de hoje. Por meio da aprendizagem baseada na investigação e da análise crítica, ajudo os alunos a desenvolver habilidades para compreender como as forças históricas moldam nosso mundo."
+    en: "I am a dedicated history educator passionate about making the past meaningful for today's students. Through inquiry-based learning and critical analysis, I help students develop the skills to understand how historical forces shape our world."
+    es: "Soy un educador de historia dedicado, apasionado por hacer que el pasado sea significativo para los estudiantes de hoy. A través del aprendizaje basado en la investigación y el análisis crítico, ayudo a los estudiantes a desarrollar las habilidades para comprender cómo las fuerzas históricas moldean nuestro mundo."
+    fi: "Olen omistautunut historian opettaja, joka on intohimoinen tekemään menneisyydestä merkityksellisen nykypäivän opiskelijoille. Tutkivan oppimisen ja kriittisen analyysin avulla autan opiskelijoita kehittämään taitoja ymmärtää, kuinka historialliset voimat muokkaavat maailmaamme."
+    fr: "Je suis un éducateur en histoire dévoué, passionné par rendre le passé significatif pour les étudiants d'aujourd'hui. À travers l'apprentissage par investigation et l'analyse critique, j'aide les étudiants à développer les compétences pour comprendre comment les forces historiques façonnent notre monde."
+  intro_2:
+    pt-BR: "Minha abordagem se concentra em envolver os alunos com fontes primárias, promover discussões reflexivas e conectar eventos históricos a questões contemporâneas. Acredito que o ensino de história deve capacitar os alunos a se tornarem pensadores críticos e informados."
+    en: "My approach centers on engaging students with primary sources, fostering thoughtful discussion, and connecting historical events to contemporary issues. I believe history education should empower students to become informed, critical thinkers."
+    es: "Mi enfoque se centra en involucrar a los estudiantes con fuentes primarias, fomentar la discusión reflexiva y conectar eventos históricos con temas contemporáneos. Creo que la educación histórica debe empoderar a los estudiantes para convertirse en pensadores críticos e informados."
+    fi: "Lähestymistapani keskittyy opiskelijoiden sitouttamiseen ensisijaisten lähteiden kanssa, pohdiskelevien keskustelujen edistämiseen ja historiallisten tapahtumien yhdistämiseen ajankohtaisiin kysymyksiin. Uskon, että historian opetuksen tulisi valtuuttaa opiskelijat tulemaan tietoisiksi, kriittisiksi ajattelijoiksi."
+    fr: "Mon approche se concentre sur l'engagement des étudiants avec des sources primaires, la promotion de discussions réfléchies et la connexion d'événements historiques à des questions contemporaines. Je crois que l'enseignement de l'histoire devrait permettre aux étudiants de devenir des penseurs critiques et informés."
+  education_title:
+    pt-BR: Formação Acadêmica
+    en: Education
+    es: Formación Académica
+    fi: Koulutus
+    fr: Formation Académique
+  experience_title:
+    pt-BR: Experiência Profissional
+    en: Professional Experience
+    es: Experiencia Profesional
+    fi: Työkokemus
+    fr: Expérience Professionnelle
+
+# PÁGINA FILOSOFIA (PHILOSOPHY)
+philosophy:
+  title:
+    pt-BR: Filosofia de Ensino
+    en: Teaching Philosophy
+    es: Filosofía de Enseñanza
+    fi: Opetusfilosofia
+    fr: Philosophie d'Enseignement
+  main_text:
+    pt-BR: "A história não é uma coleção de fatos para memorizar, mas uma forma de pensar sobre a experiência humana. Meu papel é guiar os alunos a fazer melhores perguntas, analisar múltiplas perspectivas e entender como o passado informa nosso presente. Crio ambientes de aprendizagem onde os alunos se tornam participantes ativos na construção do conhecimento histórico."
+    en: "History is not a collection of facts to memorize but a way of thinking about human experience. My role is to guide students in asking better questions, analyzing multiple perspectives, and understanding how the past informs our present. I create learning environments where students become active participants in constructing historical knowledge."
+    es: "La historia no es una colección de hechos para memorizar, sino una forma de pensar sobre la experiencia humana. Mi papel es guiar a los estudiantes a hacer mejores preguntas, analizar múltiples perspectivas y comprender cómo el pasado informa nuestro presente. Creo entornos de aprendizaje donde los estudiantes se convierten en participantes activos en la construcción del conocimiento histórico."
+    fi: "Historia ei ole kokoelma muistettavia faktoja, vaan tapa ajatella inhimillistä kokemusta. Roolini on ohjata opiskelijoita esittämään parempia kysymyksiä, analysoimaan useita näkökulmia ja ymmärtämään, kuinka menneisyys muodostaa nykyisyytemme. Luon oppimisympäristöjä, joissa opiskelijat tulevat aktiivisiksi osallistujiksi historiallisen tiedon rakentamisessa."
+    fr: "L'histoire n'est pas une collection de faits à mémoriser, mais une façon de penser l'expérience humaine. Mon rôle est de guider les étudiants à poser de meilleures questions, analyser de multiples perspectives et comprendre comment le passé informe notre présent. Je crée des environnements d'apprentissage où les étudiants deviennent des participants actifs dans la construction du savoir historique."
+  principles_title:
+    pt-BR: Princípios Fundamentais
+    en: Core Principles
+    es: Principios Fundamentales
+    fi: Ydinperiaatteet
+    fr: Principes Fondamentaux
+  inquiry_title:
+    pt-BR: Aprendizagem Baseada em Investigação
+    en: Inquiry-Based Learning
+    es: Aprendizaje Basado en Investigación
+    fi: Tutkiva Oppiminen
+    fr: Apprentissage par Investigation
+  inquiry_text:
+    pt-BR: "Os alunos exploram questões históricas através de investigação, análise e raciocínio baseado em evidências."
+    en: "Students explore historical questions through investigation, analysis, and evidence-based reasoning."
+    es: "Los estudiantes exploran preguntas históricas a través de la investigación, el análisis y el razonamiento basado en evidencias."
+    fi: "Opiskelijat tutkivat historiallisia kysymyksiä tutkimuksen, analyysin ja todistepohjaisen päättelyn kautta."
+    fr: "Les étudiants explorent les questions historiques à travers l'investigation, l'analyse et le raisonnement fondé sur des preuves."
+  critical_title:
+    pt-BR: Análise Crítica
+    en: Critical Analysis
+    es: Análisis Crítico
+    fi: Kriittinen Analyysi
+    fr: Analyse Critique
+  critical_text:
+    pt-BR: "Desenvolvimento de habilidades para avaliar fontes, reconhecer vieses e construir argumentos fundamentados."
+    en: "Developing skills to evaluate sources, recognize bias, and construct informed arguments."
+    es: "Desarrollo de habilidades para evaluar fuentes, reconocer sesgos y construir argumentos fundamentados."
+    fi: "Taitojen kehittäminen lähteiden arviointiin, ennakkoluulojen tunnistamiseen ja perusteltujen argumenttien rakentamiseen."
+    fr: "Développement des compétences pour évaluer les sources, reconnaître les biais et construire des arguments fondés."
+  perspectives_title:
+    pt-BR: Múltiplas Perspectivas
+    en: Multiple Perspectives
+    es: Múltiples Perspectivas
+    fi: Useita Näkökulmia
+    fr: Perspectives Multiples
+  perspectives_text:
+    pt-BR: "Examinando vozes diversas e narrativas para construir compreensão histórica abrangente."
+    en: "Examining diverse voices and narratives to build comprehensive historical understanding."
+    es: "Examinando voces diversas y narrativas para construir una comprensión histórica integral."
+    fi: "Tutkitaan moninaisia ääniä ja narratiiveja kattavan historiallisen ymmärryksen rakentamiseksi."
+    fr: "Examiner des voix diverses et des récits pour construire une compréhension historique complète."
+  relevance_title:
+    pt-BR: Relevância Contemporânea
+    en: Contemporary Relevance
+    es: Relevancia Contemporánea
+    fi: Ajankohtainen Merkitys
+    fr: Pertinence Contemporaine
+  relevance_text:
+    pt-BR: "Conectando padrões históricos a eventos atuais e experiências dos estudantes."
+    en: "Connecting historical patterns to current events and student experiences."
+    es: "Conectando patrones históricos con eventos actuales y experiencias estudiantiles."
+    fi: "Historiallisten mallien yhdistäminen ajankohtaisiin tapahtumiin ja opiskelijoiden kokemuksiin."
+    fr: "Connexion des modèles historiques aux événements actuels et aux expériences des étudiants."
+
+# PÁGINA PROJETOS (PROJECTS)
+projects:
+  title:
+    pt-BR: Projetos & Materiais
+    en: Projects & Resources
+    es: Proyectos y Recursos
+    fi: Projektit & Resurssit
+    fr: Projets & Ressources
+  intro:
+    pt-BR: "Conheça um pouco do meu trabalho a partir de amostras dos meus planos de aula, vídeo-aulas, materiais paradidáticos e projetos realizados - todos, é claro, concebidos para envolver os alunos em investigações históricas significativas."
+    en: "A collection of lesson plans, curriculum materials, and innovative projects designed to engage students in meaningful historical inquiry."
+    es: "Una colección de planes de lecciones, materiales curriculares y proyectos innovadores diseñados para involucrar a los estudiantes en una investigación histórica significativa."
+    fi: "Kokoelma oppituntisuunnitelmia, opetussuunnitelman materiaaleja ja innovatiivisia projekteja, jotka on suunniteltu sitouttamaan opiskelijat merkitykselliseen historialliseen tutkimukseen."
+    fr: "Une collection de plans de cours, de matériel pédagogique et de projets innovants conçus pour engager les étudiants dans une investigation historique significative."
+  privacy_note:
+    pt-BR: "Nota: Imagens e amostras de trabalhos estudantis não estão incluídas neste portfólio para proteger a privacidade dos alunos e respeitar a confidencialidade institucional."
+    en: "Note: Images and student work samples are not included in this portfolio to protect student privacy and respect institutional confidentiality."
+    es: "Nota: Las imágenes y muestras de trabajo estudiantil no se incluyen en este portafolio para proteger la privacidad de los estudiantes y respetar la confidencialidad institucional."
+    fi: "Huomautus: Kuvia ja opiskelijoiden työnäytteitä ei ole sisällytetty tähän portfolioon opiskelijoiden yksityisyyden suojaamiseksi ja institutionaalisen luottamuksellisuuden kunnioittamiseksi."
+    fr: "Note : Les images et les échantillons de travaux d'étudiants ne sont pas inclus dans ce portfolio pour protéger la vie privée des étudiants et respecter la confidentialité institutionnelle."
+
+# PÁGINA CONTATO (CONTACT)
+contact:
+  title:
+    pt-BR: Entre em contato
+    en: Get In Touch
+    es: Ponerse en Contacto
+    fi: Ota Yhteyttä
+    fr: Contactez-moi
+  intro:
+    pt-BR: "Estou sempre interessado em entrar em contato com outros educadores, discutir o desenvolvimento de currículos ou explorar projetos colaborativos. Fique à vontade para entrar em contato."
+    en: "I'm always interested in connecting with fellow educators, discussing curriculum development, or exploring collaborative projects. Feel free to reach out."
+    es: "Siempre estoy interesado en conectarme con otros educadores, discutir el desarrollo curricular o explorar proyectos colaborativos. No dudes en ponerte en contacto."
+    fi: "Olen aina kiinnostunut yhdistämään muihin opettajiin, keskustelemaan opetussuunnitelman kehittämisestä tai tutkimaan yhteistyöprojekteja. Ota rohkeasti yhteyttä."
+    fr: "Je suis toujours intéressé à me connecter avec d'autres éducateurs, discuter du développement de programmes ou explorer des projets collaboratifs. N'hésitez pas à me contacter."
+  email_label:
+    pt-BR: Email
+    en: Email
+    es: Correo Electrónico
+    fi: Sähköposti
+    fr: E-mail
+  linkedin_label:
+    pt-BR: LinkedIn
+    en: LinkedIn
+    es: LinkedIn
+    fi: LinkedIn
+    fr: LinkedIn
+
+# PÁGINA 404
+error_404:
+  title:
+    pt-BR: "404"
+    en: "404"
+    es: "404"
+    fi: "404"
+    fr: "404"
+  heading:
+    pt-BR: "Página não encontrada :("
+    en: "Page not found :("
+    es: "Página no encontrada :("
+    fi: "Sivua ei löydy :("
+    fr: "Page non trouvée :("
+  message:
+    pt-BR: "A página solicitada não pôde ser encontrada."
+    en: "The requested page could not be found."
+    es: "La página solicitada no se pudo encontrar."
+    fi: "Pyydettyä sivua ei löytynyt."
+    fr: "La page demandée est introuvable."
+
+# FOOTER
+footer:
+  copyright:
+    pt-BR: "Todos os direitos reservados"
+    en: "All rights reserved"
+    es: "Todos los derechos reservados"
+    fi: "Kaikki oikeudet pidätetään"
+    fr: "Tous droits réservés"

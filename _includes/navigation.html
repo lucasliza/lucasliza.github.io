@@ -1,48 +1,36 @@
-{% assign lang = site.active_lang %}
-{% assign lang_data = site.language_data %}
-{% assign active_lang_info = lang_data[lang] %}
+{% assign pages = site.pages | where: "lang", site.active_lang %}
 <nav>
     <div class="nav-container">
-        <a href="/{{site.baseurl}}" class="logo">    {{ site.author }}</a>
+        <a href="/{{site.baseurl}}" class="logo"> {{ site.author }}</a>
         <ul>
-        {% assign pages_list = site.pages %}
-        {% assign written = "" | split: '' %}
-        {% for node in pages_list %}
-        {% if written contains node.title %}
-        {% continue %}
-        {% endif %}
-        {% if node.title != null %}
-        {% if node.layout == "page" %}
-            <li>
-                <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" 
-                    href="{{ site.baseurl }}{{ node.url }}">{{ node.header }}</a>
-            </li>
-          {% endif %}
-          {% assign written = written | push: node.title %}
-        {% endif %}
-      {% endfor %}
+            {% for node in pages %}
+                {% if node.nav_order %}
+                    <li>
+                        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" 
+                           href="{{ site.baseurl }}{{node.url }}">
+                            {{ site.data.translations.nav[node.nav_key][site.active_lang] }}
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
         </ul>
 
         <div class="lang-switcher">
-
             <button class="lang-toggle">
-                {{ active_lang_info.name }}
+                {{ site.language_data[site.active_lang].name }}
             </button>
 
             <ul class="lang-list">
-                {% for tongue in site.languages %}
-                {% assign lang_key = tongue %}
-                {% assign lang_info = lang_data[lang_key] %}
-
-                {% unless lang_key == active_lang_key %}
-                <li>
-                    <a class="lang-item" {% static_href
-                        %}href="{% if lang_key == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ lang_key }}{{page.url}}{% endif %}"
-                        {% endstatic_href %}>
-                        {{ lang_info.name }}
-                    </a>
-                </li>
-                {% endunless %}
+                {% for language in site.languages %}
+                    {% if language != site.active_lang %}
+                        <li>
+                            <a class="lang-item" {% static_href
+                            %}  href="{% if language == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ language }}{{page.url}}{% endif %}"
+                            {% endstatic_href %}>    
+                            {{ site.language_data[language].name }}
+                            </a>
+                        </li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>

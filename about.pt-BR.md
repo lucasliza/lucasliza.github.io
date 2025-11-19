@@ -4,6 +4,8 @@ title: Sobre mim
 header: Sobre
 permalink: /about/
 lang: pt-BR
+nav_key: about
+nav_order: 2
 ---
 
 Sou um professor de história dedicado e apaixonado por tornar o passado significativo para os alunos de hoje. Por meio da aprendizagem baseada na investigação e da análise crítica, ajudo os alunos a desenvolver habilidades para compreender como as forças históricas moldam nosso mundo.
