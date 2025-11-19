@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+    {% include navigation.html %}
+
+    <main>
+        {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Seleciona o container principal do menu
+            const langSwitcher = document.querySelector('.lang-switcher');
+            // Seleciona o botão que alterna o menu
+            const langToggle = document.querySelector('.lang-toggle');
+
+            if (langToggle) {
+                // Ação 1: Alterna a classe 'open' no clique do botão
+                langToggle.addEventListener('click', function (event) {
+                    // Adiciona ou remove a classe 'open' no container principal
+                    langSwitcher.classList.toggle('open');
+                    // Impede que o clique feche o menu imediatamente (importante!)
+                    event.stopPropagation();
+                });
+
+                // Ação 2: Fecha o dropdown se o usuário clicar fora do menu
+                document.addEventListener('click', function (event) {
+                    // Verifica se o clique ocorreu fora do container 'lang-switcher'
+                    if (!langSwitcher.contains(event.target)) {
+                        langSwitcher.classList.remove('open');
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>
