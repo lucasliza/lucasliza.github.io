@@ -33,9 +33,6 @@ jobs:
     steps:
     - name: Checkout
     - uses: actions/checkout@v5
-      with:
-        ruby-version: '3.4' # Not needed with a .ruby-version, .tool-versions or mise.toml
-        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
         
     - name: Setup Ruby
     - uses: ruby/setup-ruby@v1
