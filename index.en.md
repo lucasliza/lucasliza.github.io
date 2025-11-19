@@ -13,15 +13,16 @@ nav_order: 1
         </div>
         <div class="hero-text">
             <h1>{{ site.author }}</h1>
-            <p class="hero-subtitle">History Teacher</p>
+            <p class="hero-subtitle">{{ site.data.translations.home.subtitle[page.lang] }}</p>
             <p class="hero-description">
-                Passionate about transforming history education through inquiry-based learning, 
-                critical analysis, and meaningful connections between past and present. 
-                I empower students to become thoughtful historians and engaged citizens.
+                {{ site.data.translations.home.description_1[page.lang] }}
+            </p>
+            <p class="hero-description">
+                {{ site.data.translations.home.description_2[page.lang] }}
             </p>
             <div class="hero-buttons">
-                <a href="{{ '/about/' | relative_url }}" class="btn-primary">Saiba mais</a>
-                <a href="{{ '/contact/' | relative_url }}" class="btn-secondary">Entre em contato</a>
+                <a href="{{ '/about/' | relative_url }}" class="btn-primary">{{ site.data.translations.home.btn_learn_more[page.lang] }}</a>
+                <a href="{{ '/contact/' | relative_url }}" class="btn-secondary">{{ site.data.translations.home.btn_contact[page.lang] }}</a>
             </div>
         </div>
     </div>
@@ -29,11 +30,9 @@ nav_order: 1
 
 <section class="home-intro">
     <div class="container">
-        <h2>Welcome to My Portfolio</h2>
+        <h2>{{ site.data.translations.home.welcome_title[page.lang] }}</h2>
         <p class="intro-large">
-            This portfolio showcases my journey as a history educator, featuring innovative 
-            teaching methods, curriculum development, and a collection of resources designed 
-            to inspire critical thinking and historical literacy in students.
+            {{ site.data.translations.home.welcome_text[page.lang] }}
         </p>
     </div>
 </section>

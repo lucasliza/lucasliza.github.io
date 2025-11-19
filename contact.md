@@ -2,10 +2,10 @@
 layout: page
 title: Entre em contato
 header: Contato
-permalink: /contact/
+permalink: /contato/
 lang: pt-BR
 nav_key: contact
-nav_order: 5
+nav_order: 6
 ---
 
 Estou sempre interessado em estabelecer diálogo e construir uma rede de contato com outros colegas - seja para discutir e explorar projetos colaborativos ou, ainda, trocarmos conhecimentos e experiências. Fique à vontade para me contatar por quaisquer dos meios abaixo.

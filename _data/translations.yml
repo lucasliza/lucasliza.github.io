@@ -28,12 +28,19 @@ nav:
     es: Proyectos
     fi: Projektit
     fr: Projets
+  testimonials:
+    pt-BR: Depoimentos
+    en: Testimonials
+    es: Proyectos
+    fi: Projektit
+    fr: Projets
   contact:
     pt-BR: Contato
     en: Contact
     es: Contacto
     fi: Yhteys
     fr: Contact
+  
 
 # PÁGINA INICIAL (HOME)
 home:
@@ -218,7 +225,7 @@ contact:
     fi: Ota Yhteyttä
     fr: Contactez-moi
   intro:
-    pt-BR: "Estou sempre interessado em entrar em contato com outros educadores, discutir o desenvolvimento de currículos ou explorar projetos colaborativos. Fique à vontade para entrar em contato."
+    pt-BR: "Estou sempre interessado em estabelecer diálogo e construir uma rede de contato com outros colegas - seja para discutir e explorar projetos colaborativos ou, ainda, trocarmos conhecimentos e experiências. Fique à vontade para me contatar por quaisquer dos meios abaixo."
     en: "I'm always interested in connecting with fellow educators, discussing curriculum development, or exploring collaborative projects. Feel free to reach out."
     es: "Siempre estoy interesado en conectarme con otros educadores, discutir el desarrollo curricular o explorar proyectos colaborativos. No dudes en ponerte en contacto."
     fi: "Olen aina kiinnostunut yhdistämään muihin opettajiin, keskustelemaan opetussuunnitelman kehittämisestä tai tutkimaan yhteistyöprojekteja. Ota rohkeasti yhteyttä."

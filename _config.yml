@@ -66,7 +66,7 @@ plugins:
 collections:
   projects:
     output: true
-    permalink: /:lang/projects/:title/
+    permalink: /projects/:title/
 
 # Defaults
 defaults:

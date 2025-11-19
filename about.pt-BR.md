@@ -2,7 +2,7 @@
 layout: page
 title: Sobre mim
 header: Sobre
-permalink: /about/
+permalink: /sobre/
 lang: pt-BR
 nav_key: about
 nav_order: 2

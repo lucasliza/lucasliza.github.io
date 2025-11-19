@@ -2,7 +2,7 @@
 layout: page
 title: Filosofia de Ensino
 header: Filosofia
-permalink: /philosophy/
+permalink: /filosofia/
 lang: pt-BR
 nav_key: philosophy
 nav_order: 3

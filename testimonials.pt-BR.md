@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projetos & Materiais
-header: Projetos
-permalink: /projects/
+title: Depoimentos & Recomendações
+header: Depoimentos
+permalink: /depoimentos/
 lang: pt-BR
-nav_key: projects
-nav_order: 4
+nav_key: testimonials
+nav_order: 5
 ---
 
 Conheça um pouco do meu trabalho a partir de amostras dos meus planos de aula, vídeo-aulas, materiais paradidáticos e projetos realizados - todos, é claro, concebidos para envolver os alunos em investigações históricas significativas.
