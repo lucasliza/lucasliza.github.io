@@ -4,9 +4,11 @@ title: Entre em contato
 header: Contato
 permalink: /contact/
 lang: pt-BR
+nav_key: contact
+nav_order: 5
 ---
 
-Estou sempre interessado em entrar em contato com outros educadores, discutir o desenvolvimento de currículos ou explorar projetos colaborativos. Fique à vontade para entrar em contato.
+Estou sempre interessado em estabelecer diálogo e construir uma rede de contato com outros colegas - seja para discutir e explorar projetos colaborativos ou, ainda, trocarmos conhecimentos e experiências. Fique à vontade para me contatar por quaisquer dos meios abaixo.
 
 <div class="contact-grid">
     <div class="contact-item">

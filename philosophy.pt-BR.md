@@ -4,6 +4,8 @@ title: Filosofia de Ensino
 header: Filosofia
 permalink: /philosophy/
 lang: pt-BR
+nav_key: philosophy
+nav_order: 3
 ---
 
 <div class="philosophy-text">

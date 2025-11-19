@@ -1,9 +1,10 @@
 {% assign pages = site.pages | where: "lang", site.active_lang %}
+{% assign sorted_pages = pages | sort: "nav_order" %}
 <nav>
     <div class="nav-container">
         <a href="/{{site.baseurl}}" class="logo"> {{ site.author }}</a>
         <ul>
-            {% for node in pages %}
+            {% for node in sorted_pages %}
                 {% if node.nav_order %}
                     <li>
                         <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" 

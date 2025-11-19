@@ -8,11 +8,11 @@ nav_key: about
 nav_order: 2
 ---
 
-Sou um professor de história dedicado e apaixonado por tornar o passado significativo para os alunos de hoje. Por meio da aprendizagem baseada na investigação e da análise crítica, ajudo os alunos a desenvolver habilidades para compreender como as forças históricas moldam nosso mundo.
+{{ site.data.translations.about.intro_1[page.lang] }}
 
-Minha abordagem se concentra em envolver os alunos com fontes primárias, promover discussões reflexivas e conectar eventos históricos a questões contemporâneas. Acredito que o ensino de história deve capacitar os alunos a se tornarem pensadores críticos e informados.
+{{ site.data.translations.about.intro_2[page.lang] }}
 
-## Formação acadêmica
+## {{ site.data.translations.about.education_title[page.lang] }}
 
 <div class="timeline-item">
     <div class="item-title">Mestrado em História</div>
@@ -26,7 +26,7 @@ Minha abordagem se concentra em envolver os alunos com fontes primárias, promov
     <div class="item-description">Concentration in American and World History with research emphasis on social movements.</div>
 </div>
 
-## Experiência profissional
+## {{ site.data.translations.about.experience_title[page.lang] }}
 
 <div class="timeline-item">
     <div class="item-title">History Teacher</div>

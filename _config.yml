@@ -81,39 +81,6 @@ defaults:
     values:
       layout: "project"
 
-# data
-navbar:
-  home:
-    en: Home
-    es: Inicio
-    fr: Accueil
-    fi: Etusivu
-    pt-BR: Início
-  about:
-    en: Home
-    es: Inicio
-    fr: Page d'accueil
-    fi: Etusivu
-    pt-BR: Sobre
-  philosophy:
-    en: Home
-    es: Inicio
-    fr: Page d'accueil
-    fi: Etusivu
-    pt-BR: Filosofia
-  projects:
-    en: Home
-    es: Inicio
-    fr: Page d'accueil
-    fi: Etusivu
-    pt-BR: Projetos
-  contact:
-    en: Home
-    es: Inicio
-    fr: Page d'accueil
-    fi: Etusivu
-    pt-BR: Contato
-
 # Social links
 linkedin: lucasliza
 

@@ -4,6 +4,8 @@ title: Projetos & Materiais
 header: Projetos
 permalink: /projects/
 lang: pt-BR
+nav_key: about
+nav_order: 2
 ---
 
 Conheça um pouco do meu trabalho a partir de amostras dos meus planos de aula, vídeo-aulas, materiais paradidáticos e projetos realizados - todos, é claro, concebidos para envolver os alunos em investigações históricas significativas.
