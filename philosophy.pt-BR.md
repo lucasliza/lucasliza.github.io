@@ -7,17 +7,17 @@ lang: pt-BR
 nav_key: philosophy
 nav_order: 3
 ---
-
+{% include translate.html %}
 <div class="philosophy-text">
-History is not a collection of facts to memorize but a way of thinking about human experience. My role is to guide students in asking better questions, analyzing multiple perspectives, and understanding how the past informs our present. I create learning environments where students become active participants in constructing historical knowledge.
+{{ t.philosophy.main_text }}
 </div>
 
-## Core Principles
+## {{ t.philosophy.principles_title }}
 
 <div class="principles">
     <div class="principle">
-        <h3>Inquiry-Based Learning</h3>
-        <p>Students explore historical questions through investigation, analysis, and evidence-based reasoning.</p>
+        <h3>{{ t.philosophy.inquiry.title }}</h3>
+        <p>{{ t.philosophy.inquiry.text}}</p>
     </div>
     <div class="principle">
         <h3>Critical Analysis</h3>

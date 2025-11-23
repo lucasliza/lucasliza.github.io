@@ -1,0 +1,132 @@
+---
+- id: onhb-elaborador
+  lang: pt-BR
+  title: Elaborador de Questões
+  organization: Olimpíada Nacional em História do Brasil (ONHB)
+  location: Campinas, SP
+  start_date: 2025-01-31
+  end_date: present
+  employment_type: freelance
+  current: true
+  description: >
+    <ul>
+      <li>
+        Elaboro e reviso questões, junto a uma equipe de especialistas, para a maior olimpíada de história do Brasil, contribuindo para a experiência educacional de milhares de estudantes a nível nacional.
+      </li>
+      <li>
+        Garanto excelência técnica e pedagógica no desenvolvimento de conteúdo educacional com foco no pensamento crítico e habilidades analíticas.
+      </li>
+    </ul>
+
+- id: onhb-elaborador
+  lang: en
+  title: Question Writer
+  organization: National History Olympiad of Brazil (ONHB)
+  location: Campinas, SP, Brazil
+  start_date: 2025-01-31
+  end_date: present
+  employment_type: freelance
+  current: true
+  description: >
+    Elaboration and review of questions for Brazil's largest history olympiad, 
+    contributing to the educational experience of thousands of students nationwide.
+
+- id: professor-particular
+  lang: pt-BR
+  title: Professor de História
+  organization: Aulas Particulares
+  location: Campinas/Online
+  start_date: 2020-03-01
+  end_date: present
+  employment_type: self-employed
+  current: true
+  description: >
+    Implementação de metodologias ativas e abordagens interdisciplinares 
+    personalizadas para tornar o ensino de História envolvente e relevante 
+    para diversos perfis de aprendizes.
+
+- id: professor-particular
+  lang: en
+  title: History Teacher
+  organization: Private Tutoring
+  location: Campinas/Online
+  start_date: 2020-03-01
+  end_date: present
+  employment_type: self-employed
+  current: true
+  description: >
+    Implementation of active methodologies and personalized interdisciplinary 
+    approaches to make History teaching engaging and relevant for diverse learners.
+
+- id: wise-up
+  lang: pt-BR
+  title: Professor de Língua Inglesa
+  organization: Wise Up Paulínia
+  location: Paulínia, SP
+  start_date: 2024-04-31
+  end_date: 2025-01-20
+  employment_type: full-time
+  current: false
+  description: >
+    <ul>
+      <li>
+        Implementei metodologia centrada no aluno com foco em Sala de Aula Invertida e Aprendizagem Baseada em Projetos (ABP) para o ensino de inglês.
+      </li>
+      <li>
+        Liderei treinamentos semanais sobre práticas docentes e métodos de ensino, alcançando melhorias mensuráveis nos resultados institucionais de aprendizagem.
+      </li>
+      <li>
+        Coordenei estratégias de inclusão para alunos com Transtornos Globais do Desenvolvimento.
+      </li>
+    </ul>
+
+- id: wise-up
+  lang: en
+  title: English Language Teacher
+  organization: Wise Up Paulínia
+  location: Paulínia, SP, Brazil
+  start_date: 2024-04-31
+  end_date: 2025-01-20
+  employment_type: full-time
+  current: false
+  description: >
+    Implementation of student-centered methodology focusing on Flipped Classroom 
+    and Project-Based Learning (PBL) for English teaching.
+
+- id: bolsista-PIBID
+  lang: pt-BR
+  title: Bolsista do Programa Institucional de Bolsas de Iniciação à Docência
+  organization: PIBID/CAPES - MEC
+  location: Brasil
+  start_date: 2018-08-01
+  end_date: 2019-07-31
+  employment_type: grant
+  current: false
+  description: >
+    <ul>
+      <li>
+        Desenvolvi projetos pedagógicos para turmas do Ensino Fundamental II - Anos finais e Ensino Médio da Escola Estadual Prof. José Vilagelin Neto com foco na integração tecnológica à prática docente.
+      </li>
+      <li>
+        Criei sequências didáticas e materiais paradidáticos baseados em tecnologia de realidade virtual, posteriormente reconhecidos pela instituição como referência pedagógica.
+      </li>
+    </ul>
+
+- id: professor-Dandara
+  lang: pt-BR
+  title: Professor de História
+  organization: Cursinho Popular Dandara dos Palmares
+  location: Brasil
+  start_date: 2018-08-01
+  end_date: 2019-07-31
+  employment_type: grant
+  current: false
+  description: >
+    <ul>
+      <li>
+        Ministrei aulas de História para turmas de pré-vestibular, estimulando o pensamento crítico e conectando temas históricos ao contexto contemporâneo dos alunos.
+      </li>
+      <li>
+        Coordenei estratégias de inclusão para alunos com Transtornos Globais do Desenvolvimento.
+      </li>
+    </ul>

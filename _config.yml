@@ -67,6 +67,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+  testimonials:
+    output: false
+    sort_by: date
 
 # Defaults
 defaults:

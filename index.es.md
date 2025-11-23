@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Página Inicial
-header: Início
-lang: pt-BR
+title: Página de Inicio
+lang: es
 permalink: /
 nav_key: home
 nav_order: 1

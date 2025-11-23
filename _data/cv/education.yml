@@ -1,0 +1,52 @@
+---
+- id: mestrado-unicamp
+  lang: pt-BR
+  degree: Mestrado em História
+  institution: Universidade Estadual de Campinas (UNICAMP)
+  location: Campinas, SP
+  start_date: 2021-03-21
+  end_date: 2025-10-03
+  status: completed
+  description: >
+    Pesquisa focada em abordagens pedagógicas inovadoras e desenvolvimento 
+    curricular para o ensino médio. Defendida dissertação sobre metodologias 
+    ativas no ensino de História.
+
+- id: mestrado-unicamp
+  lang: en
+  degree: Master's in History
+  institution: State University of Campinas (UNICAMP)
+  location: Campinas, SP, Brazil
+  start_date: 2021-03-21
+  end_date: 2025-10-03
+  status: completed
+  description: >
+    Research focused on innovative pedagogical approaches and curriculum 
+    development for secondary education. Defended dissertation on active 
+    methodologies in History teaching.
+
+- id: graduacao-unicamp
+  lang: pt-BR
+  degree: Bacharelado e Licenciatura em História
+  institution: Universidade Estadual de Campinas (UNICAMP)
+  location: Campinas, SP
+  start_date: 2016-03-21
+  end_date: 2020-12-15
+  status: completed
+  description: >
+    Formação dupla em História com ênfase em História da América e movimentos 
+    sociais. Participação no PIBID desenvolvendo projetos pedagógicos com 
+    tecnologias educacionais.
+
+- id: graduacao-unicamp
+  lang: en
+  degree: Bachelor's and Teaching Degree in History
+  institution: State University of Campinas (UNICAMP)
+  location: Campinas, SP, Brazil
+  start_date: 2016-03-21
+  end_date: 2020-12-15
+  status: completed
+  description: >
+    Dual degree in History with emphasis on American History and social 
+    movements. Participation in PIBID developing pedagogical projects with 
+    educational technologies.

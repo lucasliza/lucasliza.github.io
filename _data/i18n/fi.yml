@@ -1,0 +1,138 @@
+---
+language:
+  name: Suomi
+  code: fi
+  flag: 🇫🇮
+  direction: ltr
+
+nav:
+  home: Etusivu
+  about: Tietoa
+  philosophy: Filosofia
+  projects: Projektit
+  testimonials: Suositukset
+  contact: Yhteys
+
+home:
+  title: Etusivu
+  subtitle: Historian Opettaja
+  description_1: >
+    Historian maisterin tutkinto Campinas State Universitystä (UNICAMP), jossa 
+    suoritin myös historian kandidaatin ja opettajan tutkinnon. Olen opettanut 
+    vuodesta 2018, kokemusta julkisista ja yksityisistä oppilaitoksista, 
+    yliopistoon valmistavista kursseista ja yksityisopetuksesta.
+  description_2: >
+    Keskityn opiskelijoiden kokonaisvaltaiseen kehitykseen, sitoutuen edistämään 
+    heidän autonomiaansa ja kriittistä ajatteluaan monikulttuurisissa ympäristöissä 
+    ja saavuttamaan positiivisia pedagogisia tuloksia. Asiantuntemusta aktiivisen 
+    oppimisen lähestymistavoissa, luokkahuoneen hallinnassa ja 2000-luvun taitoihin 
+    sovitetuissa pedagogisissa käytännöissä.
+  btn_learn_more: Lue Lisää
+  btn_contact: Ota Yhteyttä
+  welcome_title: Tervetuloa Portfoliooni
+  welcome_text: >
+    Tämä portfolio esittelee matkaani historian opettajana, esitellen innovatiivisia 
+    opetusmenetelmiä, opetussuunnitelman kehittämistä ja kokoelman resursseja, 
+    jotka on suunniteltu inspiroimaan kriittistä ajattelua ja historiallista 
+    lukutaitoa opiskelijoissa.
+
+about:
+  title: Tietoa Minusta
+  intro_1: >
+    Olen omistautunut historian opettaja, joka on intohimoinen tekemään menneisyydestä 
+    merkityksellisen nykypäivän opiskelijoille. Tutkivan oppimisen ja kriittisen 
+    analyysin avulla autan opiskelijoita kehittämään taitoja ymmärtää, kuinka 
+    historialliset voimat muokkaavat maailmaamme.
+  intro_2: >
+    Lähestymistapani keskittyy opiskelijoiden sitouttamiseen ensisijaisten lähteiden 
+    kanssa, pohdiskelevien keskustelujen edistämiseen ja historiallisten tapahtumien 
+    yhdistämiseen ajankohtaisiin kysymyksiin. Uskon, että historian opetuksen 
+    tulisi valtuuttaa opiskelijat tulemaan tietoisiksi, kriittisiksi ajattelijoiksi.
+  education_title: Koulutus
+  experience_title: Työkokemus
+  download_cv: Lataa Ansioluettelo (PDF)
+
+philosophy:
+  title: Opetusfilosofia
+  main_text: >
+    Historia ei ole kokoelma muistettavia faktoja, vaan tapa ajatella inhimillistä 
+    kokemusta. Roolini on ohjata opiskelijoita esittämään parempia kysymyksiä, 
+    analysoimaan useita näkökulmia ja ymmärtämään, kuinka menneisyys muodostaa 
+    nykyisyytemme. Luon oppimisympäristöjä, joissa opiskelijat tulevat aktiivisiksi 
+    osallistujiksi historiallisen tiedon rakentamisessa.
+  principles_title: Ydinperiaatteet
+  inquiry_title: Tutkiva Oppiminen
+  inquiry_text: >
+    Opiskelijat tutkivat historiallisia kysymyksiä tutkimuksen, analyysin ja 
+    todistepohjaisen päättelyn kautta.
+  critical_title: Kriittinen Analyysi
+  critical_text: >
+    Taitojen kehittäminen lähteiden arviointiin, ennakkoluulojen tunnistamiseen 
+    ja perusteltujen argumenttien rakentamiseen.
+  perspectives_title: Useita Näkökulmia
+  perspectives_text: >
+    Tutkitaan moninaisia ääniä ja narratiiveja kattavan historiallisen ymmärryksen 
+    rakentamiseksi.
+  relevance_title: Ajankohtainen Merkitys
+  relevance_text: >
+    Historiallisten mallien yhdistäminen ajankohtaisiin tapahtumiin ja opiskelijoiden 
+    kokemuksiin.
+
+projects:
+  title: Projektit & Resurssit
+  intro: >
+    Kokoelma oppituntisuunnitelmia, opetussuunnitelman materiaaleja ja innovatiivisia 
+    projekteja, jotka on suunniteltu sitouttamaan opiskelijat merkitykselliseen 
+    historialliseen tutkimukseen.
+  privacy_note: >
+    Huomautus: Kuvia ja opiskelijoiden työnäytteitä ei ole sisällytetty tähän 
+    portfolioon opiskelijoiden yksityisyyden suojaamiseksi ja institutionaalisen 
+    luottamuksellisuuden kunnioittamiseksi.
+
+testimonials:
+  title: Suositukset & Arvostelut
+  intro: >
+    Urallani opettajana minulla on ollut etuoikeus työskennellä oppilaitosten, 
+    pedagogisten koordinaattorien ja kollegoiden kanssa, jotka seurasivat työtäni 
+    tarkasti. Tässä ovat joitakin saamiani suosituksia.
+  authenticity_note: >
+    Kaikki suositukset ovat saatavilla alkuperäisessä PDF-muodossa pyynnöstä.
+  pdf_link_text: Katso alkuperäinen kirje (PDF)
+  written_on: "Kirjoitettu:"
+  featured_badge: Suositeltu Suositus
+  cta_title: Haluatko tietää lisää työstäni?
+  cta_description: >
+    Olen aina avoin uusille mahdollisuuksille ja yhteistyölle. Puhutaanpa!
+  verification_title: Aitoudesta
+  verification_text_1: >
+    Kaikki esitetyt suositukset ovat aitoja ja ne on kirjoittanut ammattilaisia, 
+    jotka työskentelivät suoraan kanssani. Alkuperäiset PDF-dokumentit ovat 
+    ladattavissa ja ne voidaan varmistaa ottamalla suoraan yhteyttä oppilaitoksiin.
+  verification_text_2: >
+    Luottamuksellisuussyistä jotkin nimet ja oppilaitokset voidaan paljastaa vain 
+    muodollisen pyynnön perusteella valintaprosessien aikana.
+
+contact:
+  title: Ota Yhteyttä
+  intro: >
+    Olen aina kiinnostunut yhdistämään muihin opettajiin, keskustelemaan 
+    opetussuunnitelman kehittämisestä tai tutkimaan yhteistyöprojekteja. Ota 
+    rohkeasti yhteyttä.
+  email_label: Sähköposti
+  linkedin_label: LinkedIn
+
+error_404:
+  title: "404"
+  heading: "Sivua ei löydy :("
+  message: "Pyydettyä sivua ei löytynyt."
+
+footer:
+  copyright: Kaikki oikeudet pidätetään
+
+common:
+  read_more: Lue lisää
+  back: Takaisin
+  download: Lataa
+  close: Sulje
+  loading: Ladataan...
+---

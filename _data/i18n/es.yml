@@ -1,0 +1,141 @@
+---
+language:
+  name: Español
+  code: es
+  flag: 🇪🇸
+  direction: ltr
+
+nav:
+  home: Inicio
+  about: Acerca
+  philosophy: Filosofía
+  projects: Proyectos
+  testimonials: Testimonios
+  contact: Contacto
+
+home:
+  title: Página de Inicio
+  subtitle: Profesor de Historia
+  description_1: >
+    Máster en Historia por la Universidad Estatal de Campinas (UNICAMP), 
+    institución por la cual también me gradué como Licenciado y Profesor en 
+    Historia. Enseño desde 2018, con experiencia en instituciones educativas 
+    públicas y privadas, cursos preuniversitarios y clases particulares.
+  description_2: >
+    Mi enfoque está en el desarrollo integral de los estudiantes, comprometido 
+    a fomentar su autonomía y pensamiento crítico en entornos multiculturales 
+    y lograr resultados pedagógicos positivos. Experiencia en enfoques de 
+    aprendizaje activo, gestión del aula y prácticas pedagógicas alineadas con 
+    las competencias del siglo XXI.
+  btn_learn_more: Conocer Más
+  btn_contact: Contactar
+  welcome_title: Bienvenido a Mi Portafolio
+  welcome_text: >
+    Este portafolio muestra mi trayectoria como educador de historia, presentando 
+    métodos de enseñanza innovadores, desarrollo curricular y una colección de 
+    recursos diseñados para inspirar el pensamiento crítico y la alfabetización 
+    histórica en los estudiantes.
+
+about:
+  title: Acerca de Mí
+  intro_1: >
+    Soy un educador de historia dedicado, apasionado por hacer que el pasado sea 
+    significativo para los estudiantes de hoy. A través del aprendizaje basado en 
+    la investigación y el análisis crítico, ayudo a los estudiantes a desarrollar 
+    las habilidades para comprender cómo las fuerzas históricas moldean nuestro 
+    mundo.
+  intro_2: >
+    Mi enfoque se centra en involucrar a los estudiantes con fuentes primarias, 
+    fomentar la discusión reflexiva y conectar eventos históricos con temas 
+    contemporáneos. Creo que la educación histórica debe empoderar a los estudiantes 
+    para convertirse en pensadores críticos e informados.
+  education_title: Formación Académica
+  experience_title: Experiencia Profesional
+  download_cv: Descargar Currículum (PDF)
+
+philosophy:
+  title: Filosofía de Enseñanza
+  main_text: >
+    La historia no es una colección de hechos para memorizar, sino una forma de 
+    pensar sobre la experiencia humana. Mi papel es guiar a los estudiantes a 
+    hacer mejores preguntas, analizar múltiples perspectivas y comprender cómo 
+    el pasado informa nuestro presente. Creo entornos de aprendizaje donde los 
+    estudiantes se convierten en participantes activos en la construcción del 
+    conocimiento histórico.
+  principles_title: Principios Fundamentales
+  inquiry_title: Aprendizaje Basado en Investigación
+  inquiry_text: >
+    Los estudiantes exploran preguntas históricas a través de la investigación, 
+    el análisis y el razonamiento basado en evidencias.
+  critical_title: Análisis Crítico
+  critical_text: >
+    Desarrollo de habilidades para evaluar fuentes, reconocer sesgos y construir 
+    argumentos fundamentados.
+  perspectives_title: Múltiples Perspectivas
+  perspectives_text: >
+    Examinando voces diversas y narrativas para construir una comprensión histórica 
+    integral.
+  relevance_title: Relevancia Contemporánea
+  relevance_text: >
+    Conectando patrones históricos con eventos actuales y experiencias estudiantiles.
+
+projects:
+  title: Proyectos y Recursos
+  intro: >
+    Una colección de planes de lecciones, materiales curriculares y proyectos 
+    innovadores diseñados para involucrar a los estudiantes en una investigación 
+    histórica significativa.
+  privacy_note: >
+    Nota: Las imágenes y muestras de trabajo estudiantil no se incluyen en este 
+    portafolio para proteger la privacidad de los estudiantes y respetar la 
+    confidencialidad institucional.
+
+testimonials:
+  title: Testimonios y Recomendaciones
+  intro: >
+    A lo largo de mi trayectoria como educador, he tenido el privilegio de trabajar 
+    con instituciones educativas, coordinadores pedagógicos y colegas que siguieron 
+    de cerca mi trabajo. Aquí están algunas de las recomendaciones que he recibido.
+  authenticity_note: >
+    Todas las recomendaciones están disponibles en formato PDF original bajo 
+    solicitud.
+  pdf_link_text: Ver carta original (PDF)
+  written_on: "Escrita en:"
+  featured_badge: Recomendación Destacada
+  cta_title: ¿Quieres saber más sobre mi trabajo?
+  cta_description: >
+    Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡Hablemos!
+  verification_title: Sobre la Autenticidad
+  verification_text_1: >
+    Todas las recomendaciones presentadas son auténticas y fueron escritas por 
+    profesionales que trabajaron directamente conmigo. Los documentos PDF originales 
+    están disponibles para descarga y pueden verificarse mediante contacto directo 
+    con las instituciones.
+  verification_text_2: >
+    Por razones de confidencialidad, algunos nombres e instituciones solo pueden 
+    divulgarse mediante solicitud formal durante procesos de selección.
+
+contact:
+  title: Ponerse en Contacto
+  intro: >
+    Siempre estoy interesado en conectarme con otros educadores, discutir el 
+    desarrollo curricular o explorar proyectos colaborativos. No dudes en ponerte 
+    en contacto.
+  email_label: Correo Electrónico
+  linkedin_label: LinkedIn
+
+error_404:
+  title: "404"
+  heading: "Página no encontrada :("
+  message: "La página solicitada no se pudo encontrar."
+
+footer:
+  copyright: Todos los derechos reservados
+
+common:
+  read_more: Leer más
+  back: Volver
+  download: Descargar
+  close: Cerrar
+  loading: Cargando...
+---

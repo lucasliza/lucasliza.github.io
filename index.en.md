@@ -6,6 +6,7 @@ permalink: /
 nav_key: home
 nav_order: 1
 ---
+{% include translate.html %}
 <div class="hero">
     <div class="hero-grid">
         <div class="hero-image">
@@ -13,16 +14,16 @@ nav_order: 1
         </div>
         <div class="hero-text">
             <h1>{{ site.author }}</h1>
-            <p class="hero-subtitle">{{ site.data.translations.home.subtitle[page.lang] }}</p>
+            <p class="hero-subtitle">{{ t.home.subtitle }}</p>
             <p class="hero-description">
-                {{ site.data.translations.home.description_1[page.lang] }}
+                {{ t.home.description_1 }}
             </p>
             <p class="hero-description">
-                {{ site.data.translations.home.description_2[page.lang] }}
+                {{ t.home.description_2 }}
             </p>
             <div class="hero-buttons">
-                <a href="{{ '/about/' | relative_url }}" class="btn-primary">{{ site.data.translations.home.btn_learn_more[page.lang] }}</a>
-                <a href="{{ '/contact/' | relative_url }}" class="btn-secondary">{{ site.data.translations.home.btn_contact[page.lang] }}</a>
+                <a href="{{ '/about/' | relative_url }}" class="btn-primary">{{ t.home.btn_learn_more}}</a>
+                <a href="{{ '/contact/' | relative_url }}" class="btn-secondary">{{ t.home.btn_contact}}</a>
             </div>
         </div>
     </div>
@@ -30,9 +31,9 @@ nav_order: 1
 
 <section class="home-intro">
     <div class="container">
-        <h2>{{ site.data.translations.home.welcome_title[page.lang] }}</h2>
+        <h2>{{ t.home.welcome_title }}</h2>
         <p class="intro-large">
-            {{ site.data.translations.home.welcome_text[page.lang] }}
+            {{ t.home.welcome_text }}
         </p>
     </div>
 </section>

@@ -1,0 +1,157 @@
+---
+# Metadados
+language:
+  name: Português (Brasil)
+  code: pt-BR
+  direction: ltr
+
+# NAVEGAÇÃO
+nav:
+  home: Início
+  about: Sobre
+  philosophy: Filosofia
+  projects: Projetos
+  testimonials: Depoimentos
+  contact: Contato
+
+# HOME PAGE
+home:
+  title: Página Inicial
+  subtitle: Professor de História
+  description_1: >
+    Mestre em História pela Universidade Estadual de Campinas (UNICAMP), 
+    instituição pela qual também me graduei como Bacharel e Licenciado em História. 
+    Leciono desde 2018, possuindo experiência em instituições de ensino públicas 
+    e privadas, cursos pré-vestibular e aulas particulares.
+  description_2: >
+    Meu foco está no desenvolvimento integral dos estudantes, assumindo o 
+    compromisso de fomentar a autonomia e o pensamento crítico dos mesmos em 
+    ambientes multiculturais e em atingir resultados pedagógicos positivos. 
+    Expertise em abordagens de aprendizagem ativas, na gestão da sala de aula 
+    e em práticas pedagógicas alinhadas às competências do século XXI.
+  btn_learn_more: Saiba mais
+  btn_contact: Entre em contato
+  welcome_title: Olá, seja bem-vindo ao meu portfólio
+  welcome_text: >
+    Neste espaço, apresento minha trajetória como professor com métodos de 
+    ensino inovadores, desenvolvimento de currículos e uma coleção de recursos 
+    criados para inspirar o pensamento crítico e a alfabetização histórica nos alunos.
+
+# ABOUT PAGE
+about:
+  title: Sobre mim
+  intro_1: >
+    Sou um professor de história dedicado e apaixonado por tornar o passado 
+    significativo para os alunos de hoje. Por meio da aprendizagem baseada na 
+    investigação e da análise crítica, ajudo os alunos a desenvolver habilidades 
+    para compreender como as forças históricas moldam nosso mundo.
+  intro_2: >
+    Minha abordagem se concentra em envolver os alunos com fontes primárias, 
+    promover discussões reflexivas e conectar eventos históricos a questões 
+    contemporâneas. Acredito que o ensino de história deve capacitar os alunos 
+    a se tornarem pensadores críticos e informados.
+  education_title: Formação Acadêmica
+  experience_title: Experiência Profissional
+  competences_title: Habilidades e Competências
+  languages_title: Idiomas
+  download_cv: Baixar Currículo (PDF)
+
+# PHILOSOPHY PAGE
+philosophy:
+  title: Filosofia de Ensino
+  main_text: >
+    A história não é uma coleção de fatos para memorizar, mas uma forma de 
+    pensar sobre a experiência humana. Meu papel é guiar os alunos a fazer 
+    melhores perguntas, analisar múltiplas perspectivas e entender como o 
+    passado informa nosso presente. Crio ambientes de aprendizagem onde os 
+    alunos se tornam participantes ativos na construção do conhecimento histórico.
+  principles_title: Princípios norteadores
+  inquiry:
+    title: Aprendizagem Baseada em Investigação
+    text: >
+      Os alunos exploram questões históricas através de investigação, análise 
+      e raciocínio baseado em evidências.
+  critical:
+    title: Análise Crítica
+    text: >
+      Desenvolvimento de habilidades para avaliar fontes, reconhecer vieses e 
+      construir argumentos fundamentados.
+  perspectives:
+    title: Múltiplas Perspectivas
+    text: >
+      Examinando vozes diversas e narrativas para construir compreensão histórica 
+      abrangente.
+  relevance:
+    title: Relevância Contemporânea
+    text: >
+      Conectando padrões históricos a eventos atuais e experiências dos estudantes.
+
+# PROJECTS PAGE
+projects:
+  title: Projetos & Materiais
+  intro: >
+    Conheça um pouco do meu trabalho a partir de amostras dos meus planos de aula, 
+    vídeo-aulas, materiais paradidáticos e projetos realizados - todos, é claro, 
+    concebidos para envolver os alunos em investigações históricas significativas.
+  privacy_note: >
+    Nota: Imagens e amostras de trabalhos estudantis não estão incluídas neste 
+    portfólio para proteger a privacidade dos alunos e respeitar a confidencialidade 
+    institucional.
+
+# TESTIMONIALS PAGE
+testimonials:
+  title: Depoimentos & Recomendações
+  intro: >
+    Ao longo da minha trajetória como educador, tive o privilégio de trabalhar 
+    com instituições de ensino, coordenadores pedagógicos e colegas que acompanharam 
+    de perto meu trabalho. Aqui estão algumas das recomendações que recebi.
+  authenticity_note: >
+    Todas as cartas de recomendação estão disponíveis no seu arquivo PDF original.
+  pdf_link_text: Ver original (PDF)
+  written_on: "Escrita em"
+  featured_badge: Recomendação em Destaque
+  cta_title: Quer saber mais sobre meu trabalho?
+  cta_description: >
+    Estou sempre aberto a novas oportunidades e colaborações. Vamos conversar!
+  verification_title: Declaração de autenticidade
+  verification_text: >
+    As cartas de recomendação apresentadas, assim como seu conteúdo, são fidedignas. Todas foram escritas por 
+    profissionais que trabalharam diretamente comigo. Caso julgue necessário, os documentos originais 
+    em PDF estão disponíveis para download e também podem ser verificados mediante 
+    contato direto com as instituições e/ou autores responsáveis.
+
+# CONTACT PAGE
+contact:
+  title: Entre em contato
+  intro: >
+    Estou sempre interessado em estabelecer diálogo e construir uma rede de 
+    contato com outros colegas - seja para discutir e explorar projetos 
+    colaborativos ou, ainda, trocarmos conhecimentos e experiências. Fique à 
+    vontade para me contatar por quaisquer dos meios abaixo.
+  email_label: Email
+  linkedin_label: LinkedIn
+  form:
+    name: Nome
+    email: E-mail
+    message: Mensagem
+    send: Enviar Mensagem
+    success: Mensagem enviada com sucesso!
+    error: Erro ao enviar. Tente novamente.
+
+# COMMON / SHARED
+common:
+  read_more: Leia mais
+  back: Voltar
+  download: Baixar
+  share: Compartilhar
+  close: Fechar
+  loading: Carregando...
+  error_404:
+    title: Página não encontrada
+    message: A página que você procura não existe.
+    back_home: Voltar para o início
+
+# FOOTER
+footer:
+  copyright: Todos os direitos reservados
+  built_with: Construído com

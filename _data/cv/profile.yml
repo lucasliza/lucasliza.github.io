@@ -1,0 +1,33 @@
+---
+pt-BR:
+  name: Lucas Liza
+  title: Professor de História | Mestre pela UNICAMP
+  tagline: Transformo o ensino de História em experiências de aprendizagem que desenvolvem pensamento crítico e autonomia.
+  bio_short: >
+    Com 6 anos de experiência em sala de aula e formação pela UNICAMP, 
+    especializo-me em metodologias ativas, educação bilíngue e práticas 
+    pedagógicas do século XXI.
+  bio_extended: >
+    Atualmente, contribuo como elaborador de questões na Olimpíada Nacional 
+    em História do Brasil (ONHB). Minha abordagem combina rigor acadêmico 
+    com práticas inovadoras, sempre focando no desenvolvimento integral 
+    dos estudantes.
+  video_url: /assets/videos/curriculo-video.mp4
+  video_thumbnail: /assets/images/video-thumbnail.jpg
+  cv_pdf: /assets/documents/CV_Lucas_Liza.pdf
+
+en:
+  name: Lucas Liza
+  title: History Teacher | Master's from UNICAMP
+  tagline: I transform History teaching into learning experiences that develop critical thinking and autonomy.
+  bio_short: >
+    With 6 years of classroom experience and training from UNICAMP, 
+    I specialize in active methodologies, bilingual education, and 
+    21st-century pedagogical practices.
+  bio_extended: >
+    Currently, I contribute as a question writer for the National History 
+    Olympiad of Brazil (ONHB). My approach combines academic rigor with 
+    innovative practices, always focusing on students' comprehensive development.
+  video_url: /assets/videos/resume-video.mp4
+  video_thumbnail: /assets/images/video-thumbnail.jpg
+  cv_pdf: /assets/documents/CV_Lucas_Liza_EN.pdf

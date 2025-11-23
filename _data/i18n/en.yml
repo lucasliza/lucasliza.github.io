@@ -1,0 +1,36 @@
+---
+language:
+  name: English
+  code: en
+  direction: ltr
+
+nav:
+  home: Home
+  about: About
+  philosophy: Philosophy
+  projects: Projects
+  testimonials: Testimonials
+  contact: Contact
+
+home:
+  title: Home
+  subtitle: History Teacher
+  description_1: >
+    Master's in History from the State University of Campinas (UNICAMP), where 
+    I also graduated with a Bachelor's and Teaching degree in History. I have 
+    been teaching since 2018, with experience in public and private educational 
+    institutions, pre-university courses, and private tutoring.
+  description_2: >
+    My focus is on the comprehensive development of students, committed to 
+    fostering their autonomy and critical thinking in multicultural environments 
+    and achieving positive pedagogical outcomes. Expertise in active learning 
+    approaches, classroom management, and pedagogical practices aligned with 
+    21st-century skills.
+  btn_learn_more: Learn More
+  btn_contact: Get In Touch
+  welcome_title: Welcome to My Portfolio
+  welcome_text: >
+    This portfolio showcases my journey as a history educator, featuring 
+    innovative teaching methods, curriculum development, and a collection of 
+    resources designed to inspire critical thinking and historical literacy 
+    in students.

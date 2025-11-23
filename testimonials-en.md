@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Depoimentos e recomendações
-header: Depoimentos
-permalink: /depoimentos/
-lang: pt-BR
+title: Testimonials and recommendations
+header: Testimonials
+permalink: /testimonials/
+lang: en
 nav_key: testimonials
 nav_order: 5
 ---
@@ -35,8 +35,9 @@ nav_order: 5
         <div class="testimonial-header">
             <div class="testimonial-author">
                 <h3>{{ testimonial.author_name }}</h3>
-                <span class="author-role">{{ testimonial.author_role }}</span> <p class="author-institution">({{ testimonial.author_institution }})</p>
-                <span class="author-period">{{ testimonial.period }}</span>
+                <p class="author-role">{{ testimonial.author_role }}</p>
+                <p class="author-institution">{{ testimonial.author_institution }}</p>
+                <p class="author-period">{{ testimonial.period }}</p>
             </div>
         </div>
         

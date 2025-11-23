@@ -1,0 +1,121 @@
+---
+categories:
+  - id: interpersonal
+    lang: pt-BR
+    name: Interpessoais
+    skills:
+      - name: Empatia
+        level: expert
+      - name: Comunicação
+        level: expert
+      - name: Criatividade
+        level: advanced
+      - name: Adaptabilidade
+        level: expert
+      - name: Resolução de Conflitos
+        level: advanced
+      - name: Trabalho em Equipe
+        level: expert
+
+  - id: interpersonal
+    lang: en
+    name: Interpersonal
+    skills:
+      - name: Empathy
+        level: expert
+      - name: Communication
+        level: expert
+      - name: Creativity
+        level: advanced
+      - name: Adaptability
+        level: expert
+      - name: Conflict Resolution
+        level: advanced
+      - name: Teamwork
+        level: expert
+
+  - id: pedagogical
+    lang: pt-BR
+    name: Pedagógicas
+    skills:
+      - name: Avaliação Formativa
+        level: expert
+      - name: BNCC
+        level: expert
+      - name: Educação Inclusiva
+        level: advanced
+      - name: Gestão de Sala de Aula
+        level: expert
+      - name: Metodologias Ativas
+        level: expert
+      - name: Planejamento Pedagógico
+        level: expert
+
+  - id: pedagogical
+    lang: en
+    name: Pedagogical
+    skills:
+      - name: Formative Assessment
+        level: expert
+      - name: Curriculum Standards
+        level: expert
+      - name: Inclusive Education
+        level: advanced
+      - name: Classroom Management
+        level: expert
+      - name: Active Methodologies
+        level: expert
+      - name: Pedagogical Planning
+        level: expert
+
+  - id: technical
+    lang: pt-BR
+    name: Tecnológicas
+    skills:
+      - name: Google Workspace
+        level: expert
+      - name: IA aplicada à Educação
+        level: advanced
+      - name: Pacote Office
+        level: expert
+      - name: Realidade Virtual
+        level: intermediate
+      - name: LMS (Moodle, Canvas)
+        level: advanced
+
+  - id: technical
+    lang: en
+    name: Technical
+    skills:
+      - name: Google Workspace
+        level: expert
+      - name: AI in Education
+        level: advanced
+      - name: Office Suite
+        level: expert
+      - name: Virtual Reality
+        level: intermediate
+      - name: LMS (Moodle, Canvas)
+        level: advanced
+
+  - id: languages
+    lang: pt-BR
+    name: Idiomas
+    skills:
+      - name: Português
+        level: native
+      - name: Inglês
+        level: fluent
+      - name: Espanhol
+        level: intermediate
+
+  - id: languages
+    lang: en
+    name: Languages
+    skills:
+      - name: Portuguese
+        level: native
+      - name: English
+        level: fluent
+      - name: Spanish
+        level: intermediate

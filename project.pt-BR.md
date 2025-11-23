@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projetos & Materiais
+title: Projetos e Materiais
 header: Projetos
 permalink: /projects/
 lang: pt-BR
@@ -8,10 +8,10 @@ nav_key: projects
 nav_order: 4
 ---
 
-Conheça um pouco do meu trabalho a partir de amostras dos meus planos de aula, vídeo-aulas, materiais paradidáticos e projetos realizados - todos, é claro, concebidos para envolver os alunos em investigações históricas significativas.
+Explore e conheça um pouco do meu trabalho a partir de amostras dos meus planos de aula, vídeo-aulas, materiais paradidáticos e projetos realizados - concebidos para ter os alunos no centro do processo de ensino-aprendizagem.
 
 <div class="privacy-notice">
-    <p>Nota: Imagens e amostras de trabalhos estudantis não estão incluídas neste portfólio para proteger a privacidade dos alunos e respeitar a confidencialidade institucional.</p>
+    <p><strong>Nota</strong>: Fotografias, ilustrações e amostras de trabalhos estudantis não estão incluídas neste portfólio. Esta é uma medida de respeito, segurança e proteção à privacidade dos alunos e alunas, em estrita observância aos princípios da <strong>Lei Geral de Proteção de Dados Pessoais (LGPD)</strong> e do <strong>Estatuto da Criança e do Adolescente (ECA)</strong>, garantindo a confidencialidade e o uso responsável de dados pessoais.</p>
 </div>
 
 <div class="projects-list">
